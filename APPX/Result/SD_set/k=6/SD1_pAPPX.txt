@@ -1,0 +1,33 @@
+./Result_with_blossom/k=6/SD1_pAPPX.txt
+vehicle number : 8
+8 83
+valid solutions : 21952
+
+======================================
+The minimum cost is（without opt-2）:20307.1357893653
+The minimum cost is:20307.1357893653
+--------------------
+The run time （without opt-2）is: 3600.0580640000 (s) 
+The run time is: 3600.0580640000 (s) 
+The optimal route and corresponding demands serviced:
+6
+5   11_90    7_10    5    total service:100
+3414.2135623731
+
+1    7_80    6_20    1    total service:100
+3414.2135623731
+
+2    6_40   10_60    2    total service:100
+2000.0000000000
+
+4   13_90    9_10   10_0    4    total service:100
+6064.4951022460
+
+0    8_20    9_80    0    total service:100
+3414.2135623731
+
+3    8_40   12_60    3    total service:100
+2000.0000000000
+
+
+20307.1357893653

@@ -1,0 +1,15 @@
+compute rounds : 2
+
+
+
+The minimum cost route is : 1005.8890102385
+The Route is: 
+depot is : 1   22_11 74_9 73_25 23_18 42_5 75_8 76_18 24_29 68_25 40_17 95_3 14_23 41_9 depot_1 ( X 1) the tot demand is : 200
+depot is : 1   81_6 69_36 30_9 25_3 55_18 56_2 26_6 5_19 57_6 40_14 29_13 54_14 59_18 27_17 13_19 depot_1 ( X 1) the tot demand is : 200
+depot is : 1   78_14 4_13 35_14 79_3 80_23 34_11 82_26 52_10 10_16 36_8 72_1 29_3 28_16 70_6 2_10 51_13 77_13 depot_1 ( X 1) the tot demand is : 200
+depot is : 0   61_3 60_4 6_26 46_16 18_2 85_7 depot_0 ( X 1) the tot demand is : 58
+depot is : 0   62_13 17_19 87_35 39_16 45_18 15_20 92_1 101_17 38_8 99_10 60_24 86_19 depot_0 ( X 1) the tot demand is : 200
+depot is : 0   100_9 94_22 86_22 95_24 90_15 7_3 96_20 98_12 88_26 43_5 44_7 16_8 58_7 3_7 93_2 97_11 depot_0 ( X 1) the tot demand is : 200
+depot is : 0   9_9 47_1 83_16 49_36 48_12 72_14 66_20 67_25 21_9 31_21 71_5 32_27 8_5 depot_0 ( X 1) the tot demand is : 200
+depot is : 0   84_11 48_15 37_5 50_30 65_9 64_10 33_23 91_3 11_16 12_12 20_17 63_19 89_9 53_9 19_12 depot_0 ( X 1) the tot demand is : 200
+The running time is : 0.0028456950 s

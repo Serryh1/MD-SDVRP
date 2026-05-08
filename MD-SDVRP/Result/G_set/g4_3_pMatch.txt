@@ -1,0 +1,851 @@
+compute rounds : 55129
+
+
+
+The minimum cost route is : 692529.5363125338
+The Route is: 
+depot is : 15   337_210 1020_87 depot_15 ( X 1) the tot demand is : 297
+depot is : 15   1020_11 747_198 43_91 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   259_77 1078_107 43_116 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   1255_72 346_139 1078_89 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   932_4 773_51 1147_245 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   914_74 735_36 691_37 34_23 922_118 1147_12 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   914_124 839_104 284_72 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   839_44 980_11 930_108 712_137 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   485_119 1238_60 326_51 712_70 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   156_65 360_20 1229_215 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   71_51 693_82 204_70 1010_46 827_51 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   71_21 499_60 1080_219 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   559_95 1080_37 1201_168 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   644_57 749_61 731_85 1201_97 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   411_165 731_135 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   920_10 411_18 766_68 1057_204 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   766_14 487_58 133_228 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   591_120 585_18 373_68 848_94 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   905_40 66_16 126_100 1104_60 591_84 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   905_89 403_66 444_145 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   534_65 198_53 444_11 253_171 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   242_120 139_69 1052_27 233_84 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   1255_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   1154_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   1020_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   1010_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   932_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   920_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   773_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   691_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   644_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   534_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   499_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   403_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   214_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   71_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   66_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 15   34_300 depot_15 ( X 1) the tot demand is : 300
+depot is : 14   427_123 855_177 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   910_4 695_209 269_81 427_6 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   601_79 1030_105 683_44 1181_3 910_69 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   1181_114 1150_186 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   1150_18 174_282 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   506_181 771_119 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   686_50 506_13 166_194 875_43 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   686_239 257_54 285_7 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   285_80 165_36 828_70 436_41 1122_73 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   281_6 637_159 726_24 1122_111 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   625_57 535_105 281_138 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   42_53 379_132 625_23 219_24 94_28 665_40 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   442_135 883_28 219_137 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   840_30 442_79 1146_104 45_87 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   1146_163 543_38 572_99 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   898_97 889_112 572_91 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   163_130 898_170 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   802_66 26_153 1092_81 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   218_103 887_28 802_79 31_90 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   1164_142 31_104 564_54 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   76_54 1164_67 653_179 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   111_40 1106_88 76_172 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   893_36 111_179 67_63 79_22 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   420_52 893_6 362_185 1200_57 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   255_207 275_42 420_51 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   235_18 554_60 744_68 224_154 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   235_217 1127_83 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   1110_71 1127_130 331_99 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   1110_96 319_204 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   1021_213 319_79 1134_8 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   458_246 1021_48 500_6 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   1173_52 845_59 678_142 458_47 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   511_76 692_184 860_19 1173_21 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   1118_103 1187_69 548_9 835_98 53_21 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   548_66 234_234 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   1187_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   910_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   887_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   845_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   828_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   726_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   683_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   601_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   543_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   511_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   500_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   331_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   285_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   275_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   269_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   257_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   165_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   109_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   94_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   79_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 14   67_300 depot_14 ( X 1) the tot demand is : 300
+depot is : 13   829_31 468_269 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   829_131 101_169 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   588_80 764_208 101_12 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   765_136 1209_164 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   632_140 957_48 765_112 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   518_80 25_163 305_19 632_38 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   518_1 880_218 82_17 727_64 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   1195_209 880_81 227_10 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   821_102 227_198 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   821_1 172_236 597_63 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   597_92 745_208 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   87_5 654_254 488_41 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   114_170 574_106 87_24 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   338_179 822_121 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   727_300 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   518_300 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   289_300 depot_13 ( X 1) the tot demand is : 300
+depot is : 13   87_300 depot_13 ( X 1) the tot demand is : 300
+depot is : 12   364_64 947_213 97_23 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   1019_6 917_67 694_46 652_181 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   505_27 201_232 694_41 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   505_50 761_246 584_4 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   761_20 990_133 967_117 30_30 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   674_260 971_18 30_22 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   971_9 211_72 120_30 1207_49 680_42 586_98 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   440_52 250_74 191_55 581_21 1119_98 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   987_5 70_174 1119_121 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   1235_25 460_33 915_242 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   1235_236 143_54 630_10 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   177_121 182_179 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   791_155 929_31 1087_10 633_97 174_7 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   1186_77 832_26 700_197 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   1172_69 739_66 996_37 571_128 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   739_77 245_130 484_93 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   245_84 977_79 424_36 135_101 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   801_83 1067_23 135_79 1029_9 1175_25 159_81 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   147_210 465_72 1067_18 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   949_206 618_87 60_7 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   1175_300 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   1103_300 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   1019_300 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   945_300 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   630_300 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   618_300 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   505_300 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   424_300 depot_12 ( X 1) the tot demand is : 300
+depot is : 12   60_300 depot_12 ( X 1) the tot demand is : 300
+depot is : 11   1070_22 986_147 595_70 486_29 356_32 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   855_69 1070_231 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   450_31 169_161 598_67 750_16 275_25 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   224_32 450_268 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   860_131 1243_42 340_63 393_64 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   46_177 393_123 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   439_183 46_117 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   439_65 230_152 713_40 469_43 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   469_119 1217_152 886_29 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   854_7 729_54 810_71 886_168 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   810_198 1157_102 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1157_5 363_204 960_91 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   283_101 960_113 673_86 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   673_95 88_165 1033_40 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   701_157 1244_96 1033_37 814_10 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   406_10 244_34 122_156 814_100 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   389_39 106_114 780_98 406_49 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   780_190 835_110 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   144_210 1208_23 1017_67 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1036_32 144_74 236_27 116_70 1214_72 407_25 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   684_89 1199_129 236_82 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1115_20 437_4 1248_62 279_59 1199_155 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1115_46 495_138 1130_4 108_44 286_68 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   495_67 186_66 98_8 577_159 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   541_20 423_58 179_150 1182_69 956_3 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1182_169 1252_81 989_50 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1114_69 1245_95 717_42 488_29 1035_65 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1248_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1245_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1244_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1243_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1214_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1115_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1036_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   1017_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   854_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   744_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   486_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   406_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   389_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   286_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   116_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   98_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 11   53_300 depot_11 ( X 1) the tot demand is : 300
+depot is : 10   21_269 97_31 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   550_4 582_51 938_60 121_148 335_37 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   723_11 805_203 297_20 834_66 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   297_277 277_23 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   277_28 395_122 467_150 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1116_2 1041_148 395_150 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   560_206 1116_94 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1135_16 1256_25 560_9 861_250 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1256_29 776_68 646_69 894_134 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   925_46 73_74 894_82 786_30 475_68 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   28_28 786_255 345_17 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   681_89 28_211 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   755_96 679_10 112_67 239_96 681_31 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   624_50 551_75 710_78 755_9 372_88 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   710_167 792_133 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   784_212 792_88 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   265_32 941_57 1024_75 667_49 784_29 862_58 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   181_14 1137_55 862_231 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1025_66 181_107 104_127 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   104_84 203_26 132_190 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   132_36 1090_264 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1090_14 1117_33 841_118 689_135 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   963_14 422_198 55_59 689_29 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1002_19 963_281 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1002_38 876_243 1222_19 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   876_43 1008_54 903_6 979_124 497_73 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1113_57 1008_243 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1113_147 320_153 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   320_30 561_101 52_16 1216_12 193_85 843_49 1091_7 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1091_280 460_20 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   143_179 1251_121 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   924_125 81_175 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   316_94 1246_85 924_121 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   619_108 271_82 35_55 1006_51 316_4 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   431_6 353_91 730_117 619_86 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   241_162 431_138 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   241_74 1032_97 216_129 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   832_72 830_81 871_94 476_28 216_25 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   978_2 1038_220 1060_63 1186_15 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   190_103 388_76 978_121 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   388_18 992_282 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1152_27 49_208 688_65 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   451_90 1213_152 1152_58 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   38_75 1136_225 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1132_64 1131_89 838_88 714_59 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   105_4 651_70 1132_226 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1077_25 140_22 1126_8 743_34 885_211 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1184_42 1183_185 1231_2 1077_71 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1184_79 949_55 1205_44 20_38 409_84 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1256_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1231_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1222_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1216_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1137_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1117_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1077_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1032_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1024_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   1002_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   925_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   843_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   838_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   834_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   832_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   830_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   743_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   723_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   667_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   646_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   624_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   605_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   551_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   497_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   460_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   457_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   388_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   316_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   265_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   203_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   140_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   112_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   105_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   73_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 10   38_300 depot_10 ( X 1) the tot demand is : 300
+depot is : 9   586_27 263_27 137_246 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   263_12 446_108 222_50 706_5 370_7 1103_41 1009_69 581_8 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   350_250 987_50 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   503_22 350_40 583_38 260_100 799_28 1089_72 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1042_45 873_125 503_130 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1042_191 217_70 1247_39 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1247_23 538_97 589_180 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1166_193 589_107 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   837_237 1166_63 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   779_18 168_159 703_32 837_31 662_60 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   662_8 540_245 63_20 937_27 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   937_34 130_259 1203_7 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   368_68 675_17 1203_215 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   464_3 1179_150 675_147 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   351_151 721_2 308_97 464_50 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   865_2 492_47 650_90 351_15 145_146 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   471_266 145_34 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1139_36 874_210 471_1 1053_53 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   113_44 1219_8 456_42 1053_206 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   456_212 1040_88 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1040_91 580_28 794_104 1107_48 1239_29 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   580_92 1075_121 719_37 1234_1 454_35 994_14 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   391_32 608_177 764_91 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   641_55 391_171 842_73 626_1 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   545_106 641_194 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1258_17 545_5 748_37 1263_141 194_100 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   748_175 354_125 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   696_65 1061_129 480_106 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   696_118 757_182 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   282_200 757_28 1085_72 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   906_15 124_44 264_94 945_42 182_105 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1100_110 1153_17 118_37 556_26 155_9 602_14 783_37 813_50 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   19_133 631_69 1048_66 419_32 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   631_199 968_101 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   333_139 1202_79 529_82 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   529_26 226_30 75_13 800_231 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1211_29 1257_54 226_217 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1023_23 1211_56 256_174 1102_47 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   539_30 996_97 645_173 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   58_40 465_161 528_99 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1247_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1239_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1208_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1207_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1174_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1129_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   1089_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   994_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   937_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   906_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   842_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   799_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   719_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   717_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   703_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   680_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   662_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   650_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   556_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   464_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   454_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   419_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   349_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   222_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   217_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   155_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 9   120_300 depot_9 ( X 1) the tot demand is : 300
+depot is : 8   359_106 781_183 1013_1 992_10 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   434_262 359_38 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   1072_161 850_124 434_15 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   1072_91 402_17 184_9 974_29 1039_35 167_6 553_113 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   553_83 1158_52 206_152 708_11 895_2 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   895_132 336_168 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   336_60 157_155 408_21 770_64 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   157_133 452_95 763_72 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   65_73 1004_70 763_94 84_48 387_15 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   544_35 759_210 1004_55 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   544_37 1105_195 49_68 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   1165_9 891_92 451_199 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   891_119 1168_67 268_114 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   268_162 936_63 704_41 1026_34 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   1026_41 38_4 908_12 804_67 715_176 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   1136_11 975_205 109_62 771_22 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   1051_79 797_153 1220_7 163_21 547_40 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   547_60 629_93 768_75 26_72 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   1158_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   1039_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   1026_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   1013_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   974_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   770_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   704_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   629_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   547_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   544_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   452_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   408_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   184_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 8   84_300 depot_8 ( X 1) the tot demand is : 300
+depot is : 7   246_42 385_75 276_58 378_125 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   37_221 328_79 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   247_125 328_175 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   247_6 287_123 1226_171 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   287_5 327_43 50_11 213_47 329_194 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1140_38 976_10 421_248 327_4 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   421_4 1193_3 923_216 1099_77 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   334_12 1099_77 836_211 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   997_8 576_17 334_275 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   254_22 997_278 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   433_141 638_88 254_71 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   231_7 433_83 1138_210 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   231_112 1253_80 918_108 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1162_21 310_175 22_87 918_17 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   301_109 1162_191 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   868_12 858_17 414_242 301_29 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   536_47 1169_165 868_88 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   812_84 300_128 1169_88 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1096_144 812_156 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   825_73 1096_108 614_25 769_94 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   825_219 1125_78 658_3 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   711_254 658_46 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   397_11 711_6 1218_26 928_248 578_9 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   671_69 397_171 212_60 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   212_231 966_69 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   966_219 655_24 1101_57 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   278_69 173_28 552_1 1101_202 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   847_15 1086_5 164_17 775_222 278_41 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   709_20 847_43 1069_237 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1259_56 709_244 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   445_80 304_35 1259_185 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   228_207 445_93 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   498_31 491_254 228_15 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1045_193 498_31 474_76 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   192_2 401_145 981_11 1045_79 83_63 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   95_255 1176_45 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   153_174 1047_118 525_8 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1047_106 612_23 342_171 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   343_47 820_65 274_188 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   820_142 864_41 1241_107 459_10 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   78_208 459_67 1151_25 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   742_158 80_77 1005_4 78_61 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   742_32 569_268 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   569_30 867_117 478_70 782_59 1230_24 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   307_1 579_181 912_55 261_6 1230_25 68_32 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   261_85 999_215 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   252_274 881_26 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   881_5 482_84 570_209 1054_2 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   447_13 902_191 1054_96 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   447_259 1221_41 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1221_37 590_214 470_49 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   685_90 299_3 1049_16 1177_30 718_52 470_109 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   722_78 1055_2 102_139 685_81 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   102_152 416_148 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   416_78 664_46 48_131 223_45 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1066_23 223_65 522_20 816_192 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1193_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1177_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1140_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1125_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1066_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   1054_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   981_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   976_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   868_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   858_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   847_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   722_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   664_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   655_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   614_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   612_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   536_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   522_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   478_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   459_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   413_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   339_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   327_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   299_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   261_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   254_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   213_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   164_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   83_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   80_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 7   22_300 depot_7 ( X 1) the tot demand is : 300
+depot is : 6   462_100 687_34 309_166 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   720_30 240_270 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   57_128 720_172 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1128_26 740_223 57_51 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1128_68 789_71 1098_161 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   170_38 248_213 789_49 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   170_61 312_154 493_85 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1206_103 493_197 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   754_60 852_6 1011_63 1206_171 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   635_86 754_214 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   647_11 884_100 249_33 896_79 635_7 846_70 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   215_16 129_82 846_202 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   136_12 215_238 942_50 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   27_71 942_229 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   953_14 463_60 1056_132 27_94 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1056_106 1073_194 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1073_37 1095_151 1063_92 1121_20 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1121_31 615_83 399_186 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1163_8 399_66 197_226 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1007_24 47_110 1163_166 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   90_115 826_34 531_30 758_83 844_13 47_25 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   90_156 1204_144 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1204_34 939_2 1129_78 480_186 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   657_42 131_235 282_23 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1028_163 657_11 991_126 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   991_63 86_35 1027_202 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1027_1 176_200 857_74 661_25 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1108_68 596_231 176_1 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1108_174 622_126 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   622_164 314_136 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   314_144 901_156 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   381_9 293_122 357_18 901_35 92_51 859_65 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   357_86 110_214 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   110_38 178_70 736_86 882_96 100_10 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1018_16 100_284 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1018_70 1198_230 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1198_27 1236_177 56_96 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   56_85 702_215 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   702_30 267_6 473_122 605_48 938_94 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   441_267 1265_33 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1185_61 426_70 1265_169 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1185_120 119_180 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   916_4 669_35 119_78 322_89 1159_94 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   669_95 93_205 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   93_30 270_228 645_42 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   961_80 58_220 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   961_13 1050_194 853_93 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   853_43 1034_61 376_196 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   714_72 1034_228 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1159_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1063_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   1007_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   961_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   916_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   884_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   852_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   826_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   758_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   736_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   734_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   657_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   647_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   635_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   539_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   526_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   463_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   249_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   178_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   92_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 6   86_300 depot_6 ( X 1) the tot demand is : 300
+depot is : 5   1075_96 592_71 150_133 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   150_77 205_223 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   429_68 984_114 1065_71 205_47 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   878_95 429_173 1262_32 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   185_87 1262_90 74_80 1210_43 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   634_275 74_25 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   405_181 367_102 634_17 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   382_234 405_66 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   354_154 349_22 1174_50 1031_48 1209_26 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   745_13 988_93 384_98 1237_96 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   1001_23 1149_35 380_17 532_151 1250_51 288_9 202_14 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   1149_58 950_25 321_106 435_20 332_91 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   509_43 1094_22 138_104 716_36 1190_95 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   171_56 509_244 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   1189_102 171_198 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   822_5 1189_132 697_163 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   636_257 158_29 338_14 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   158_94 1059_29 1064_84 289_51 870_42 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   361_89 870_91 371_120 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   613_19 361_119 1048_82 266_80 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   968_78 280_1 238_198 869_23 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   869_276 1202_24 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   1190_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   1149_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   1059_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   878_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   613_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   592_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   510_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   435_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   384_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   332_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   288_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   280_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 5   202_300 depot_5 ( X 1) the tot demand is : 300
+depot is : 4   438_35 89_229 326_36 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   89_54 1232_199 756_47 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   546_35 44_156 756_71 229_38 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   970_98 1171_171 1097_30 44_1 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   417_111 107_170 970_19 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1148_156 417_83 96_61 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   400_98 1148_122 563_80 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   798_38 1037_10 642_82 400_170 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   642_168 1242_52 360_80 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1229_71 732_184 1081_45 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1081_181 1000_119 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   39_82 995_138 760_80 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   318_38 1084_25 36_216 39_21 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   59_26 848_104 318_21 394_149 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   352_13 198_183 139_104 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   302_120 242_70 959_76 323_34 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   221_130 831_40 302_130 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   398_32 649_24 1003_70 993_78 221_96 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   398_46 690_52 243_90 573_112 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   690_8 61_41 815_251 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   815_38 668_262 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   668_37 449_34 609_229 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   449_214 418_86 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1170_15 341_179 418_106 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1142_267 341_15 187_18 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   790_34 366_237 927_17 1142_12 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   851_126 790_174 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   672_161 851_139 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   707_181 672_106 517_13 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1224_75 707_53 699_172 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1224_48 1215_241 890_11 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   99_121 890_179 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   479_67 99_134 430_61 1161_6 386_32 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   537_158 430_38 1022_16 1194_73 606_15 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   537_3 566_237 516_21 888_39 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   888_157 863_143 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1141_72 705_82 348_49 863_97 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1141_217 1264_36 1123_41 358_6 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   954_96 162_84 501_26 115_38 358_56 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   115_38 639_262 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   355_194 965_73 639_33 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   965_208 558_92 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   558_102 1240_183 1044_15 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1044_89 309_4 623_5 892_202 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   663_13 240_17 687_142 808_128 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1161_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1123_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1022_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   1003_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   980_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   927_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   831_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   705_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   663_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   649_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   517_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   479_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   438_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   430_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   398_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   386_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   360_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   358_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   348_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   323_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   229_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 4   162_300 depot_4 ( X 1) the tot demand is : 300
+depot is : 3   410_10 964_59 981_21 610_78 587_132 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   342_124 676_132 527_44 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   676_161 677_139 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   677_34 344_144 448_37 1180_85 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   315_27 1014_28 778_116 344_116 77_11 1191_2 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   778_110 343_37 40_141 640_12 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   24_32 969_82 1155_131 522_55 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   787_30 1188_172 24_98 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   303_31 972_139 787_130 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   728_42 303_258 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   594_132 728_103 603_65 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   1062_86 603_214 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   1120_154 1062_70 1071_76 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   666_112 91_49 1120_139 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   955_22 196_94 1197_178 666_6 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   23_32 520_63 785_94 489_42 1079_45 1197_24 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   175_131 1233_69 23_97 468_3 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   617_31 412_56 188_58 510_48 988_107 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   593_150 617_150 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   383_169 593_131 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   660_32 383_34 1083_181 1160_53 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   519_76 660_224 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   18_27 1016_60 519_213 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   18_206 557_94 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   179_45 186_6 1111_28 952_221 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   1223_52 989_41 1167_207 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   85_49 313_38 1223_213 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   313_34 670_71 935_2 494_193 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   392_88 1035_29 670_166 811_17 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   1094_163 114_55 225_12 983_16 54_54 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   1233_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   1191_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   1160_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   1071_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   1014_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   989_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   969_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   877_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   811_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   795_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   527_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   489_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   448_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   423_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   412_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   392_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   313_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   306_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   188_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 3   85_300 depot_3 ( X 1) the tot demand is : 300
+depot is : 2   897_110 507_18 290_13 599_55 1000_104 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1088_80 200_66 907_68 41_37 897_29 611_20 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   926_95 425_10 611_150 1196_35 51_10 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   151_57 374_64 1196_179 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   141_49 521_7 151_164 656_80 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1261_82 809_214 656_4 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   809_62 1156_238 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1156_41 1015_78 1046_59 1124_69 1254_53 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1015_161 628_2 17_20 824_117 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   824_170 298_130 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   298_76 504_124 161_100 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   508_207 504_93 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   16_97 1012_158 508_45 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   530_137 16_163 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   396_63 1043_26 210_66 555_40 530_105 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   806_21 396_93 32_186 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   189_225 806_33 180_42 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   180_40 741_92 549_168 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   741_53 117_72 737_79 273_18 934_78 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   117_122 415_37 207_3 276_138 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   985_70 378_97 604_133 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1225_24 1074_44 575_21 154_5 951_141 123_23 604_42 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   123_31 296_245 856_15 568_9 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   568_62 339_26 64_210 37_2 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   964_4 428_84 62_16 369_196 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   428_8 948_235 1176_57 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   496_2 95_8 946_39 413_35 1227_170 523_46 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   311_176 496_124 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   72_23 490_183 311_94 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1143_199 72_101 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   542_69 125_86 1143_96 833_49 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   365_182 833_118 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   365_49 291_169 1112_14 866_29 807_14 533_25 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   533_122 209_68 998_92 330_18 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   330_215 944_85 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   944_62 827_149 818_71 982_18 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   160_1 904_194 788_55 724_50 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   788_102 1058_163 793_35 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   220_184 793_116 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   33_52 220_60 237_32 195_156 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   33_78 621_75 872_5 849_8 306_9 877_64 795_54 153_7 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   627_104 557_196 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   627_32 347_242 943_26 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   199_79 738_147 943_74 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   738_130 142_59 900_100 524_11 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1261_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1218_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1124_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1112_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1074_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1046_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   1043_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   998_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   982_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   934_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   926_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   907_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   866_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   849_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   818_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   656_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   621_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   599_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   568_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   555_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   542_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   523_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   521_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   507_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   428_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   415_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   374_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   290_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   273_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   237_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   204_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   180_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   160_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   154_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   141_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   123_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   51_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 2   41_300 depot_2 ( X 1) the tot demand is : 300
+depot is : 1   921_235 382_34 1178_31 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   803_147 472_87 772_46 921_20 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   1109_73 466_76 616_22 803_71 767_58 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   931_53 607_45 600_104 932_39 616_59 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   487_35 1192_189 904_76 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   272_108 524_77 128_115 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   272_94 146_206 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   958_32 262_18 567_212 146_38 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   913_151 958_6 777_66 940_77 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   913_126 455_28 879_146 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   879_151 1068_149 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   1068_10 899_254 461_36 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   682_78 746_64 1133_36 29_117 899_5 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   380_140 682_160 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   1228_98 950_202 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   1228_20 1249_70 909_8 152_49 973_153 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   973_71 995_115 526_1 477_10 734_14 1154_4 294_85 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   1249_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   1178_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   958_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   931_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   909_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   777_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   772_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   767_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   746_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   607_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   487_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   472_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   461_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   455_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   262_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 1   152_300 depot_1 ( X 1) the tot demand is : 300
+depot is : 0   483_32 depot_0 ( X 1) the tot demand is : 32
+depot is : 0   483_42 364_3 457_58 1212_197 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   652_53 962_7 481_3 515_211 21_26 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   502_20 753_227 1251_53 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   502_118 620_175 325_7 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   325_107 648_193 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   648_62 643_55 404_35 134_129 103_19 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   733_87 513_144 103_17 911_52 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   513_14 127_88 796_198 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   796_48 324_196 183_56 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   251_90 324_94 1093_116 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   1093_155 69_145 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   69_10 762_24 752_22 514_244 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   443_210 762_90 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   390_167 512_45 443_51 774_37 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   512_25 295_73 432_23 698_93 177_86 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   258_97 933_97 823_83 945_23 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   823_107 148_4 562_22 453_91 1076_76 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   148_119 565_181 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   565_81 356_219 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   919_153 819_50 317_50 791_47 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   292_186 377_110 919_4 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   292_46 208_37 1144_74 1082_143 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   208_71 375_213 81_16 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   234_61 232_239 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   659_97 232_32 751_34 817_92 725_45 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   659_189 1145_27 149_25 813_59 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   783_156 1260_75 1208_69 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   1186_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   1145_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   1087_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   962_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   929_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   917_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   911_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   871_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   774_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   752_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   751_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   698_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   633_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   602_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   562_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   512_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   483_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   432_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   295_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   250_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   183_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   127_300 depot_0 ( X 1) the tot demand is : 300
+depot is : 0   103_300 depot_0 ( X 1) the tot demand is : 300
+The running time is : 3600.0322163240 s

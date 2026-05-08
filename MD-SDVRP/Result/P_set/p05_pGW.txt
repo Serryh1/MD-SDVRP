@@ -1,0 +1,16 @@
+remain_capacity is: 542
+valid solution is : 200
+
+
+
+The minimum cost route is : 1106.8309669339
+The Route is: 
+depot is : 1   13_19 27_17 55_18 56_2 26_6 10_14 52_10 72_15 36_8 66_20 79_3 35_14 77_13 51_13 2_10 70_6 30_9 25_3 depot_1 ( X 1) the tot demand is : 200
+depot is : 1   10_2 82_26 34_11 80_23 4_13 78_14 69_36 81_6 depot_1 ( X 1) the tot demand is : 131
+depot is : 1   29_16 28_16 88_26 3_7 58_5 76_6 57_6 40_31 68_25 24_29 5_19 54_14 depot_1 ( X 1) the tot demand is : 200
+depot is : 0   8_3 89_9 32_27 71_5 31_21 21_9 67_25 63_19 11_16 91_3 33_23 64_10 12_12 20_17 47_1 depot_0 ( X 1) the tot demand is : 200
+depot is : 0   84_11 9_9 46_16 83_16 49_36 48_27 37_5 50_30 65_9 8_2 87_18 19_12 53_9 depot_0 ( X 1) the tot demand is : 200
+depot is : 0   97_11 43_5 44_7 16_8 58_2 87_17 39_16 15_20 45_18 17_19 62_13 92_1 86_41 94_22 depot_0 ( X 1) the tot demand is : 200
+depot is : 0   90_15 14_23 59_18 41_9 22_11 74_9 73_25 75_8 23_18 42_5 76_12 96_17 95_27 7_3 depot_0 ( X 1) the tot demand is : 200
+depot is : 0   96_3 98_12 101_17 99_10 38_8 93_2 60_28 100_9 18_2 85_7 6_26 61_3 depot_0 ( X 1) the tot demand is : 127
+The running time is : 1.0509092070 s

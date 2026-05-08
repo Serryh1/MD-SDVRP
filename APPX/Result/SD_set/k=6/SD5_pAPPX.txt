@@ -1,0 +1,87 @@
+./Result_with_blossom/k=6/SD5_pAPPX.txt
+vehicle number : 24
+32 671
+valid solutions : 918119
+
+======================================
+The minimum cost is（without opt-2）:111061.5240586439
+The minimum cost is:111061.5240586439
+--------------------
+The run time （without opt-2）is: 3600.5568820000 (s) 
+The run time is: 3600.5568820000 (s) 
+The optimal route and corresponding demands serviced:
+24
+2   36_60   28_40    2    total service:100
+8285.6264355386
+
+4   12_20   20_60   28_20    4    total service:100
+5236.0679774998
+
+0   11_60   12_40    0    total service:100
+2765.1580764832
+
+0   11_30   19_70    0    total service:100
+3999.3959543911
+
+0   19_20   27_80    0    total service:100
+6000.5084783363
+
+3   27_10   35_90    3    total service:100
+6767.2443818443
+
+3   26_40   34_60   35_0    3    total service:100
+9428.7647127492
+
+3   10_20   26_20   18_60    3    total service:100
+4000.0000000000
+
+3    9_60   10_40    3    total service:100
+1530.6181757708
+
+5   17_70    9_30    5    total service:100
+1999.6979771956
+
+5   17_20   25_80    5    total service:100
+3170.6668068405
+
+5   25_10   33_90    5    total service:100
+5171.7793441380
+
+5   24_40   32_60   33_0    5    total service:100
+8882.8112120789
+
+0    8_20   16_60   24_20    0    total service:100
+6000.0000000000
+
+1    7_60    8_40    1    total service:100
+2179.6736616607
+
+1    7_30   15_70    1    total service:100
+1999.6979771956
+
+1   15_20   23_80    1    total service:100
+3170.6668068405
+
+1   23_10   31_90    1    total service:100
+5170.3647840360
+
+2   22_40   30_60   31_0    2    total service:100
+9428.6044632871
+
+2    6_20   14_60   22_20    2    total service:100
+4000.0000000000
+
+2   13_60    6_40    2    total service:100
+1530.6181757708
+
+4   21_70   13_30    4    total service:100
+1999.6979771956
+
+4   21_20   29_80    4    total service:100
+3172.0814278891
+
+4   29_10   37_90    4    total service:100
+5171.7792519022
+
+
+111061.5240586439

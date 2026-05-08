@@ -1,0 +1,26 @@
+remain_capacity is: 0
+valid solution is : 1
+
+
+
+The minimum cost route is : 56404.9799325905
+The Route is: 
+depot is : 3   23_50 24_50 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   22_60 23_40 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   21_90 20_10 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   11_40 12_60 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   9_50 11_50 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   9_40 10_60 depot_3 ( X 1) the tot demand is : 100
+depot is : 2   27_40 26_60 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   16_60 17_40 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   5_90 6_10 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   15_50 14_50 depot_2 ( X 1) the tot demand is : 100
+depot is : 1   19_50 20_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   18_60 19_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   17_50 27_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   6_50 7_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 0   24_10 25_90 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   8_60 7_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   14_10 13_90 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   15_40 4_60 depot_0 ( X 1) the tot demand is : 100
+The running time is : 0.0012522640 s

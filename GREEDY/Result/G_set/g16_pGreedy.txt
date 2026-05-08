@@ -1,0 +1,805 @@
+tot capacity is : 380800
+need capacity is : 318350
+Minimum cost (without opt2):613373.5263372284
+--------------------
+The run time (without opt-2) is: 40.4425230000 (s) 
+The minimum cost is:613373.5263372284
+The run time is:40.4425230000(s)
+The optimal route and corresponding demands serviced:
+11  840_400   11    total service:400
+10 1258_400   10    total service:400
+13  737_45 1202_355   13    total service:400
+2  877_173 1004_8  826_219    2    total service:400
+1  645_54  366_346    1    total service:400
+4  167_57  187_97 1243_246    4    total service:400
+0  304_400    0    total service:400
+0 1164_18  810_84  253_217  304_81    0    total service:400
+7  159_400    7    total service:400
+7 1186_329  159_71    7    total service:400
+13  737_400   13    total service:400
+13  404_79  543_303  737_18   13    total service:400
+7 1117_266 1186_134    7    total service:400
+15  755_36  185_136  163_228   15    total service:400
+14 1203_25  671_375   14    total service:400
+14  124_22 1203_378   14    total service:400
+14  178_248  463_58  213_94   14    total service:400
+13  177_124  371_236  222_40   13    total service:400
+13  222_161  807_102  404_137   13    total service:400
+2 1064_83  829_317    2    total service:400
+7  220_128  734_65 1117_207    7    total service:400
+8  651_1  879_399    8    total service:400
+3  417_251  102_149    3    total service:400
+5  550_400    5    total service:400
+5 1125_176  615_203  550_21    5    total service:400
+1 1210_140 1019_178  645_82    1    total service:400
+13  673_37  149_111 1165_87  842_99  807_66   13    total service:400
+8  989_365 1050_35    8    total service:400
+7  866_400    7    total service:400
+7  466_79  499_319  866_2    7    total service:400
+2  431_320 1064_80    2    total service:400
+10 1159_49  699_307 1258_44   10    total service:400
+12  487_347  130_53   12    total service:400
+0  846_134  170_64 1164_202    0    total service:400
+3 1148_195  417_205    3    total service:400
+5 1144_366 1072_34    5    total service:400
+6  644_153  682_190 1127_57    6    total service:400
+6 1007_400    6    total service:400
+6  427_240  652_121 1007_39    6    total service:400
+9  657_195  492_205    9    total service:400
+2  280_41 1004_359    2    total service:400
+14   30_142  765_92  124_166   14    total service:400
+2  400_206  347_194    2    total service:400
+6  732_172   29_219  427_9    6    total service:400
+3   41_63  869_69  319_228  676_32  663_8    3    total service:400
+8  697_80  651_320    8    total service:400
+3  739_400    3    total service:400
+3  617_358  739_42    3    total service:400
+6  919_400    6    total service:400
+6  741_366  919_34    6    total service:400
+15 1240_67 1069_277  816_56   15    total service:400
+14 1254_400   14    total service:400
+14 1197_13  205_56 1134_282 1254_49   14    total service:400
+2  280_283  160_24  875_43  431_50    2    total service:400
+8  512_25  598_327  989_48    8    total service:400
+4 1093_400    4    total service:400
+4   44_111  461_252 1093_37    4    total service:400
+11  776_6  683_380  145_14   11    total service:400
+5  887_126 1125_274    5    total service:400
+0  157_400    0    total service:400
+0 1253_340  157_60    0    total service:400
+11  440_6  134_380  840_14   11    total service:400
+8  512_30  697_370    8    total service:400
+12  738_400   12    total service:400
+12 1229_137  738_31  789_40 1142_192   12    total service:400
+5  250_41  887_359    5    total service:400
+12   76_11 1155_143  548_175  487_71   12    total service:400
+6  732_6  953_292 1182_102    6    total service:400
+9 1212_139  405_261    9    total service:400
+7  249_170  241_127  499_103    7    total service:400
+5 1144_45  572_94  184_33  289_129  306_4 1101_39  211_17  305_39    5    total service:400
+0  537_400    0    total service:400
+0 1177_57  349_324  537_19    0    total service:400
+9  745_38  379_65  657_297    9    total service:400
+3  248_38  255_174   66_135 1148_53    3    total service:400
+7  491_97  220_303    7    total service:400
+10 1240_292 1159_108   10    total service:400
+4  628_132  614_268    4    total service:400
+1  123_400    1    total service:400
+1 1066_158  215_223  123_19    1    total service:400
+11  452_170  164_230   11    total service:400
+12  723_33  470_367   12    total service:400
+1   21_107 1178_293    1    total service:400
+10  113_400   10    total service:400
+10  515_392  113_8   10    total service:400
+4  749_7  167_393    4    total service:400
+11  479_74  608_127  440_199   11    total service:400
+2  775_260  400_140    2    total service:400
+10  640_254  562_146   10    total service:400
+4  843_118  628_181  749_101    4    total service:400
+10  365_48  669_352   10    total service:400
+1  918_130  272_77 1237_130  677_63    1    total service:400
+0 1208_22  771_271 1253_107    0    total service:400
+10  825_241  453_159   10    total service:400
+10  649_70  365_330   10    total service:400
+7  128_122  491_278    7    total service:400
+12  464_247  907_11  723_142   12    total service:400
+14   30_275 1097_125   14    total service:400
+15  755_76  747_30 1173_294   15    total service:400
+15   34_257  535_65  121_78   15    total service:400
+14 1108_83  205_249  178_68   14    total service:400
+11   55_234  452_166   11    total service:400
+6 1076_263  630_22  964_94  682_21    6    total service:400
+3  248_195   77_16 1051_160 1074_29    3    total service:400
+8   64_400    8    total service:400
+8 1138_301   64_99    8    total service:400
+4 1241_400    4    total service:400
+4 1126_306 1241_94    4    total service:400
+7 1257_1 1116_203  817_87  544_109    7    total service:400
+15  306_101  755_299   15    total service:400
+14  717_7  391_16  494_132 1019_245   14    total service:400
+8  599_242  512_158    8    total service:400
+7  587_400    7    total service:400
+7  675_164  469_173  587_63    7    total service:400
+2  358_168  775_232    2    total service:400
+13 1096_377  975_23   13    total service:400
+3  142_400    3    total service:400
+3  502_2  635_271  752_49  142_78    3    total service:400
+15  201_400   15    total service:400
+15  139_392  201_8   15    total service:400
+4  916_220  338_180    4    total service:400
+13  498_400   13    total service:400
+13  352_209  420_119  498_72   13    total service:400
+6  225_28  223_259  741_113    6    total service:400
+11  519_63 1016_337   11    total service:400
+14  408_317   30_83   14    total service:400
+7  249_43  576_357    7    total service:400
+15  774_16  336_211  640_148 1240_25   15    total service:400
+13  245_40  126_67  162_121  293_134  633_38   13    total service:400
+13 1096_16  809_118  518_188 1209_70  553_8   13    total service:400
+13 1095_400   13    total service:400
+13 1259_209  533_109 1095_82   13    total service:400
+7   59_128  249_272    7    total service:400
+4  798_325   44_75    4    total service:400
+13   78_195  297_205   13    total service:400
+3  962_156  698_217  617_27    3    total service:400
+7  827_348  982_52    7    total service:400
+0  478_104 1075_296    0    total service:400
+11  993_150 1191_179   87_71   11    total service:400
+13   78_50  541_64  323_202   99_84   13    total service:400
+15  603_319  139_81   15    total service:400
+4  176_362  843_38    4    total service:400
+7  476_88  128_312    7    total service:400
+8  818_73 1223_84 1140_243    8    total service:400
+5  375_64   34_233  250_103    5    total service:400
+7   59_311 1220_74  476_15    7    total service:400
+0 1177_70  811_43  722_287    0    total service:400
+3  119_13   26_240   17_13 1160_112  348_22    3    total service:400
+7 1136_3 1030_365  827_32    7    total service:400
+11 1089_291  174_109   11    total service:400
+13  646_144  352_256   13    total service:400
+9  192_40 1199_93  596_181 1212_86    9    total service:400
+11 1191_59  158_133  479_208   11    total service:400
+5  822_30  867_13  382_255  515_8  375_94    5    total service:400
+7 1060_160 1053_240    7    total service:400
+4  315_76  367_324    4    total service:400
+7  482_63 1033_287   59_50    7    total service:400
+10  753_180  649_219  401_1   10    total service:400
+7  244_400    7    total service:400
+7 1250_297 1152_25  244_78    7    total service:400
+11  729_53 1261_202 1089_145   11    total service:400
+1  656_279 1037_40   21_81    1    total service:400
+2  783_242  160_158    2    total service:400
+6  766_265  225_135    6    total service:400
+3  175_55  199_90   77_255    3    total service:400
+4  275_33  995_184  719_127  916_56    4    total service:400
+1  565_159 1216_17  342_179  952_45    1    total service:400
+0   69_283 1181_117    0    total service:400
+0  884_98  735_205  478_97    0    total service:400
+11  154_182  926_167  776_51   11    total service:400
+2   78_8  533_257  783_135    2    total service:400
+8  616_117  818_249  599_34    8    total service:400
+10  702_157  430_243  825_0   10    total service:400
+11  987_24  942_184   55_192   11    total service:400
+10  236_137  862_263   10    total service:400
+7  203_400    7    total service:400
+7  127_313  426_78  203_9    7    total service:400
+4 1265_53  889_347    4    total service:400
+0  221_281  641_119    0    total service:400
+0  326_145  846_255    0    total service:400
+7  332_275  451_77 1047_48    7    total service:400
+4  913_16 1133_366  176_18    4    total service:400
+0  949_190  790_121  221_89    0    total service:400
+8  601_393  526_7    8    total service:400
+4  551_400    4    total service:400
+4  716_256  423_104  551_40    4    total service:400
+11  987_134  519_266   11    total service:400
+10 1217_155  702_245   10    total service:400
+7  469_29  850_254 1060_117    7    total service:400
+0  864_28  326_354  634_18    0    total service:400
+14  441_60 1108_340   14    total service:400
+4 1163_226 1126_174    4    total service:400
+6  953_57 1167_343    6    total service:400
+14 1195_193  922_159  272_32  408_16   14    total service:400
+1  513_248 1226_88  717_64    1    total service:400
+11  946_160 1115_173  885_67   11    total service:400
+3  126_120   41_280    3    total service:400
+3  571_117  126_283    3    total service:400
+4  727_346  798_54    4    total service:400
+8 1146_119  665_178  601_103    8    total service:400
+0  634_400    0    total service:400
+0  860_84  921_261  634_55    0    total service:400
+11  740_185   80_215   11    total service:400
+10  867_184  301_112  401_104   10    total service:400
+2  700_400    2    total service:400
+2  358_265  311_100  700_35    2    total service:400
+11  390_238  946_6  926_156   11    total service:400
+4 1163_191  778_127  727_82    4    total service:400
+11  355_162  740_238   11    total service:400
+10  140_400   10    total service:400
+10  769_361  140_39   10    total service:400
+6  997_30  434_370    6    total service:400
+8  616_50  948_350    8    total service:400
+1  364_243  781_157    1    total service:400
+14 1022_6  454_105   88_99 1218_22  713_154  120_14   14    total service:400
+9  938_400    9    total service:400
+9  748_26  701_361  938_13    9    total service:400
+8  230_336  616_64    8    total service:400
+7  563_78 1136_322    7    total service:400
+4  148_400    4    total service:400
+4  913_295  888_47  446_2  148_56    4    total service:400
+7  612_227 1239_26  817_147    7    total service:400
+6  763_273  953_127    6    total service:400
+13  980_36  200_219 1196_145   13    total service:400
+15  819_51 1114_237  603_112   15    total service:400
+2  188_400    2    total service:400
+2  783_57  384_290  411_24  188_29    2    total service:400
+7  443_256  814_144    7    total service:400
+0  947_52  884_348    0    total service:400
+9  192_400    9    total service:400
+9  558_364 1000_30  192_6    9    total service:400
+10   23_385  236_15   10    total service:400
+15  141_291  306_109   15    total service:400
+6 1057_203  294_82  359_16 1244_85  766_14    6    total service:400
+4 1184_193  962_173  794_34    4    total service:400
+7  472_140  503_240 1152_20    7    total service:400
+14  495_244  945_99 1227_57   14    total service:400
+9  137_105  329_94  701_101  141_100    9    total service:400
+11  279_400   11    total service:400
+11  580_180  490_207  279_13   11    total service:400
+1  886_125  523_217 1066_58    1    total service:400
+0  350_85  638_315    0    total service:400
+6  374_33  997_367    6    total service:400
+13  571_294  149_67  694_39   13    total service:400
+6  228_146 1194_7 1080_161 1249_24  374_62    6    total service:400
+13  346_96  694_304   13    total service:400
+8 1189_93 1094_136  194_6  955_22 1138_143    8    total service:400
+7  246_400    7    total service:400
+7  496_323  246_77    7    total service:400
+13  346_271 1209_129   13    total service:400
+10 1011_13  943_70  660_60  867_257   10    total service:400
+4  786_394  315_6    4    total service:400
+7  768_400    7    total service:400
+7 1239_329  443_44  768_27    7    total service:400
+1  716_7 1037_393    1    total service:400
+15  329_63 1190_337   15    total service:400
+0  811_118  195_282    0    total service:400
+10 1112_31 1162_369   10    total service:400
+11 1224_16  987_220  729_127  339_37   11    total service:400
+0 1198_134 1225_196  350_70    0    total service:400
+11  658_27   93_373   11    total service:400
+14  243_295  197_105   14    total service:400
+4 1265_22  364_121   75_257    4    total service:400
+0  564_63  909_337    0    total service:400
+0  283_400    0    total service:400
+0 1122_167  345_230  283_3    0    total service:400
+14   46_215   19_30  441_155   14    total service:400
+8  284_7  433_316  549_77    8    total service:400
+0  426_179 1034_57 1198_164    0    total service:400
+0  116_226  206_36  659_2  811_136    0    total service:400
+15  774_165  542_29 1021_206   15    total service:400
+14  296_245  261_114  243_41   14    total service:400
+7 1174_98 1106_302    7    total service:400
+9  318_53   81_347    9    total service:400
+4  316_214  586_93 1251_93    4    total service:400
+13  764_291 1150_13  646_96   13    total service:400
+7  895_297  138_34  925_69    7    total service:400
+7  496_71  146_226 1239_103    7    total service:400
+2  460_75  341_238  911_57  311_30    2    total service:400
+10 1207_284 1217_116   10    total service:400
+15  986_17  399_148  329_235   15    total service:400
+1 1032_211 1149_68 1216_121    1    total service:400
+11  138_10  218_390   11    total service:400
+4  316_221   20_172 1184_7    4    total service:400
+9 1200_42 1023_206  256_132  379_20    9    total service:400
+11  690_400   11    total service:400
+11  473_59  278_334  690_7   11    total service:400
+4  362_151 1205_58 1184_191    4    total service:400
+9  392_39  360_61  318_300    9    total service:400
+0 1122_145  564_255    0    total service:400
+6 1065_195  964_205    6    total service:400
+4  517_258 1149_96 1265_46    4    total service:400
+7 1174_199  563_201    7    total service:400
+14  979_21  465_291  448_5 1086_83   14    total service:400
+6  331_28 1065_13  182_39 1123_138   16_182    6    total service:400
+15  961_102  397_108  819_190   15    total service:400
+13  976_118  202_137  980_145   13    total service:400
+2 1098_400    2    total service:400
+2  545_223  328_127 1098_50    2    total service:400
+1  395_50  685_240  716_110    1    total service:400
+8  111_195  618_95  230_110    8    total service:400
+0 1031_400    0    total service:400
+0   69_139  868_174 1031_87    0    total service:400
+6 1219_400    6    total service:400
+6  605_55   89_271 1219_74    6    total service:400
+11  647_96 1224_304   11    total service:400
+4  963_39  778_361    4    total service:400
+7  473_59 1087_341    7    total service:400
+7  920_88  482_312    7    total service:400
+14  172_327  361_73   14    total service:400
+7  484_345  754_55    7    total service:400
+10 1201_9  237_265  769_126   10    total service:400
+13 1141_400   13    total service:400
+13 1084_379 1141_21   13    total service:400
+7  760_62  101_52  949_197  426_89    7    total service:400
+11  965_83  670_68  561_249   11    total service:400
+7  421_294  850_106    7    total service:400
+14  983_269  172_131   14    total service:400
+11  602_317  484_83   11    total service:400
+4  295_136 1232_168 1179_35  719_61    4    total service:400
+11  110_68 1235_278  355_54   11    total service:400
+0  412_400    0    total service:400
+0  691_388  412_12    0    total service:400
+7  524_400    7    total service:400
+0 1070_210 1172_152  947_38    0    total service:400
+14  821_73  932_106  983_70  296_151   14    total service:400
+13  731_15  994_365  346_20   13    total service:400
+11  920_32  647_170  473_198   11    total service:400
+15  785_146  399_254   15    total service:400
+5  368_37  792_363    5    total service:400
+11  133_187  309_213   11    total service:400
+14  820_400   14    total service:400
+14  513_105 1084_93   38_183  820_19   14    total service:400
+10  588_210 1207_190   10    total service:400
+11  912_100   22_120  191_31  158_149   11    total service:400
+0  133_5  343_240  771_155    0    total service:400
+4  183_341  206_25 1017_32  963_2    4    total service:400
+14  525_327   19_73   14    total service:400
+13  295_204  914_151  924_45   13    total service:400
+11 1040_1  138_371  602_28   11    total service:400
+14  570_352  945_48   14    total service:400
+10  667_364  970_36   10    total service:400
+4  861_7  424_156   17_237    4    total service:400
+15  471_228  152_172   15    total service:400
+2  268_66 1154_153  545_181    2    total service:400
+0  133_143  920_41  767_216    0    total service:400
+4  337_69  966_53  446_278    4    total service:400
+10 1112_69  387_331   10    total service:400
+15  542_271  471_129   15    total service:400
+8  720_64 1041_290 1146_46    8    total service:400
+11  813_81  946_319   11    total service:400
+10   54_34 1221_112 1112_254   10    total service:400
+1   24_304  523_96    1    total service:400
+6 1213_400    6    total service:400
+6   79_353 1213_47    6    total service:400
+10  667_15  372_91  418_120  232_101  588_73   10    total service:400
+4 1205_197  815_203    4    total service:400
+6  228_130  331_270    6    total service:400
+1  344_44  298_356    1    total service:400
+15  654_250  542_150   15    total service:400
+6  388_266  763_134    6    total service:400
+0  793_278 1070_122    0    total service:400
+4  626_374  786_26    4    total service:400
+1  556_7  395_393    1    total service:400
+2   91_84  581_5  507_52  439_259    2    total service:400
+11  800_249  977_26  580_125   11    total service:400
+0  973_393 1122_7    0    total service:400
+0 1006_70  143_224  624_20  691_86    0    total service:400
+13  202_147   92_253   13    total service:400
+10  486_400   10    total service:400
+10  207_159  265_209  486_32   10    total service:400
+1  933_212   24_188    1    total service:400
+14  506_134 1150_135  513_131   14    total service:400
+13 1252_386  202_14   13    total service:400
+1  898_307  967_21  344_72    1    total service:400
+0  600_71  760_329    0    total service:400
+0  210_7  891_149  812_175  868_69    0    total service:400
+1  448_208  922_39  933_56  923_97    1    total service:400
+6  841_266  388_17  108_117    6    total service:400
+0  707_33 1077_358  860_9    0    total service:400
+4  556_35 1215_365    4    total service:400
+14 1139_23 1170_103  179_212  715_23  525_39   14    total service:400
+0  643_38  324_179  240_178  973_5    0    total service:400
+15  392_52  941_223  169_38  785_87   15    total service:400
+9  582_351 1000_49    9    total service:400
+6  258_23  108_377    6    total service:400
+14  454_168  570_84  155_22  448_126   14    total service:400
+9  582_6  900_102  529_292    9    total service:400
+9  988_238 1023_162    9    total service:400
+5  943_67  368_333    5    total service:400
+11   47_46  871_280  658_74   11    total service:400
+10  458_83 1201_317   10    total service:400
+10  276_306  370_18 1185_36   23_40   10    total service:400
+0 1124_400    0    total service:400
+0  435_149  505_88  208_160 1124_3    0    total service:400
+4  262_200  556_200    4    total service:400
+11  493_369  133_31   11    total service:400
+13  914_43  262_132 1252_45  506_180   13    total service:400
+0 1236_279  793_121    0    total service:400
+13 1161_351  857_49   13    total service:400
+15  552_273  654_127   15    total service:400
+2 1045_350   90_50    2    total service:400
+2  268_32  460_368    2    total service:400
+8  104_33  689_367    8    total service:400
+0  493_79  917_183  706_138    0    total service:400
+10  207_296   74_104   10    total service:400
+9   36_117  112_283    9    total service:400
+10  712_313  173_83  207_4   10    total service:400
+11  984_357 1055_15  413_28   11    total service:400
+11 1169_234 1255_106  965_60   11    total service:400
+0  444_80  626_105   71_212 1059_3    0    total service:400
+8  354_19  284_103  104_278    8    total service:400
+11  802_173  180_227   11    total service:400
+0  210_400    0    total service:400
+0 1204_320  210_80    0    total service:400
+8  286_400    8    total service:400
+8 1029_91  432_212  286_97    8    total service:400
+11  696_315  977_85   11    total service:400
+11  655_180  415_57  991_163   11    total service:400
+13 1049_278 1161_14  789_31 1056_77   13    total service:400
+8   86_95 1111_65  354_240    8    total service:400
+15  409_208  552_16 1083_176   15    total service:400
+8  720_47  936_214  520_139    8    total service:400
+4 1187_337  303_63    4    total service:400
+14  865_124  744_276   14    total service:400
+10   32_73   45_204  712_12 1048_111   10    total service:400
+6 1073_77  900_238   79_85    6    total service:400
+11  802_30  380_152  264_54  813_164   11    total service:400
+6  996_400    6    total service:400
+6  901_197  609_144   89_42  996_17    6    total service:400
+4  831_122  254_278    4    total service:400
+6  509_210   28_150 1110_40    6    total service:400
+1   68_314  898_86    1    total service:400
+10   54_400   10    total service:400
+10   70_361   54_39   10    total service:400
+15  606_231  397_169   15    total service:400
+2  507_95  593_227 1045_78    2    total service:400
+0  269_154  674_219 1236_27    0    total service:400
+0  369_334  706_66    0    total service:400
+4  171_400    4    total service:400
+4  517_3  171_19  217_90  475_288    4    total service:400
+2  212_11  474_24  457_129  507_236    2    total service:400
+4  861_206  914_194    4    total service:400
+1   68_80  125_214  539_34 1085_72    1    total service:400
+4 1205_143  861_257    4    total service:400
+2  838_267  268_133    2    total service:400
+10  568_221  313_179   10    total service:400
+13 1264_32  238_305  464_30  994_33   13    total service:400
+11  299_118  935_228  696_54   11    total service:400
+11  954_340 1235_60   11    total service:400
+1  247_400    1    total service:400
+1  330_335  247_65    1    total service:400
+10  568_16   50_275  878_78  232_31   10    total service:400
+4 1187_64  631_336    4    total service:400
+4  206_215  897_116 1204_29 1205_40    4    total service:400
+4  285_316 1187_84    4    total service:400
+10 1006_231  579_169   10    total service:400
+10  410_188  458_212   10    total service:400
+9  151_206  228_102   36_92    9    total service:400
+13  838_195 1246_90  932_115   13    total service:400
+10   70_45  939_29  943_326   10    total service:400
+14  567_400   14    total service:400
+14 1246_334  567_66   14    total service:400
+11  796_369  655_31   11    total service:400
+0  538_274  206_126    0    total service:400
+15  777_303  421_47  606_50   15    total service:400
+10  772_291  410_109   10    total service:400
+11  398_18  264_382   11    total service:400
+4  999_127  966_273    4    total service:400
+14 1071_199  693_159 1246_42   14    total service:400
+11  340_231 1040_169   11    total service:400
+11  373_229 1026_28   22_143   11    total service:400
+6  436_194  554_48  892_42  974_76  258_40    6    total service:400
+10 1083_4  277_373  772_23   10    total service:400
+4  831_172  501_228    4    total service:400
+11  583_57  688_15  836_58  709_49  107_9  796_94  954_118   11    total service:400
+0  707_70  600_330    0    total service:400
+4 1245_191  874_157  282_41  831_11    4    total service:400
+14 1013_314  865_86   14    total service:400
+0 1174_191  870_44  707_165    0    total service:400
+13  411_220  474_36  851_144   13    total service:400
+11  856_400   11    total service:400
+11  369_72   47_255  856_73   11    total service:400
+4  534_287  999_113    4    total service:400
+11  234_148  271_84  881_3 1039_165   11    total service:400
+6  359_400    6    total service:400
+6  239_394  359_6    6    total service:400
+15  777_55  870_132 1083_213   15    total service:400
+13 1103_64 1145_29  438_307   13    total service:400
+10 1052_293  477_107   10    total service:400
+0  858_53  718_347    0    total service:400
+4  823_243 1245_99  285_58    4    total service:400
+2  573_41  450_359    2    total service:400
+4   61_37  422_293  534_70    4    total service:400
+6  151_63  514_171  609_166    6    total service:400
+6  940_400    6    total service:400
+6  239_31  118_292  903_11  940_66    6    total service:400
+11   67_400   11    total service:400
+11  859_8  307_308   67_84   11    total service:400
+6  233_123  509_277    6    total service:400
+10  619_288 1113_26  878_86   10    total service:400
+11  724_85  398_315   11    total service:400
+0  956_148  674_27  643_225    0    total service:400
+10  105_15  370_385   10    total service:400
+15 1129_182  988_172  169_46   15    total service:400
+14 1013_72 1139_328   14    total service:400
+11  708_302   47_98   11    total service:400
+11 1026_400   11    total service:400
+11  447_32  873_364 1026_4   11    total service:400
+4  845_73 1018_327    4    total service:400
+11  762_99  951_172 1255_129   11    total service:400
+11  959_182 1062_26  859_192   11    total service:400
+10  939_77  844_323   10    total service:400
+11 1055_27  266_373   11    total service:400
+0  639_17  801_383    0    total service:400
+2  181_170  474_230    2    total service:400
+0  956_177  858_158 1006_65    0    total service:400
+0  505_109  639_291    0    total service:400
+4  894_305  823_95    4    total service:400
+11  363_63 1055_337   11    total service:400
+9  725_46  743_10 1001_7 1088_103 1129_234    9    total service:400
+13   76_110  464_125 1049_165   13    total service:400
+4  880_400    4    total service:400
+4  217_199  357_114  880_87    4    total service:400
+11  950_400   11    total service:400
+11  322_329  950_71   11    total service:400
+2   60_112 1071_288    2    total service:400
+14  281_14  852_84 1234_203 1013_99   14    total service:400
+2  611_320   60_80    2    total service:400
+0  708_13  150_137  467_130  425_120    0    total service:400
+11  910_129  416_46 1222_225   11    total service:400
+10  308_121  105_279   10    total service:400
+11  363_400   11    total service:400
+11  757_379  363_21   11    total service:400
+0 1028_268  175_45  505_87    0    total service:400
+1  662_244  569_156    1    total service:400
+2 1014_349  611_51    2    total service:400
+10  308_261 1052_139   10    total service:400
+14 1132_181  806_219   14    total service:400
+4  422_130   73_33  270_200  845_37    4    total service:400
+11  333_169  340_231   11    total service:400
+11  271_40  322_41  724_319   11    total service:400
+10 1104_129  378_121  619_150   10    total service:400
+13 1103_43  168_357   13    total service:400
+11  733_50   56_320  757_30   11    total service:400
+9  437_77 1073_323    9    total service:400
+13  589_105  504_30 1103_265   13    total service:400
+10  300_264  166_110  578_2  308_24   10    total service:400
+6  892_75  500_293  118_32    6    total service:400
+11  386_61  235_339   11    total service:400
+4  539_105  357_295    4    total service:400
+10  902_186  153_214   10    total service:400
+14  730_69  759_137  454_194   14    total service:400
+10  555_24  939_376   10    total service:400
+13  589_278  181_122   13    total service:400
+9 1027_125  437_275    9    total service:400
+2  872_175 1256_219  573_6    2    total service:400
+4  335_92 1042_173  894_135    4    total service:400
+11  386_400   11    total service:400
+11  832_160 1062_204  386_36   11    total service:400
+0  287_32  429_162  444_206    0    total service:400
+0 1028_191  456_17  538_192    0    total service:400
+10 1128_89   32_311   10    total service:400
+11  456_67   97_104  150_229   11    total service:400
+11  447_22  393_225   52_153   11    total service:400
+10 1099_84  555_316   10    total service:400
+15  799_329  777_71   15    total service:400
+10  837_9  377_67  575_324   10    total service:400
+2  281_353 1193_40 1014_7    2    total service:400
+1 1231_130  317_88  291_71  330_111    1    total service:400
+15  743_3  394_170  146_201  799_26   15    total service:400
+11  761_266  299_134   11    total service:400
+6  892_157  883_36  186_207    6    total service:400
+13  872_166  833_208  589_26   13    total service:400
+0  252_135  516_130 1102_116  287_19    0    total service:400
+6  971_200  233_200    6    total service:400
+11  832_324  805_10  761_66   11    total service:400
+6  773_262  892_138    6    total service:400
+10  302_346 1128_54   10    total service:400
+14 1132_12  650_107 1193_281   14    total service:400
+13  899_302  403_98   13    total service:400
+11 1100_1  978_399   11    total service:400
+10  193_199  445_201   10    total service:400
+4  106_68  252_332    4    total service:400
+11  906_153 1109_224  271_23   11    total service:400
+10  377_93 1082_236  956_71   10    total service:400
+9  514_85 1171_216 1027_99    9    total service:400
+10  442_10 1020_193 1099_197   10    total service:400
+4  536_100  539_300    4    total service:400
+4 1025_302  353_52  335_46    4    total service:400
+4   84_8   27_211  270_181    4    total service:400
+14  664_67  620_123  650_91  759_119   14    total service:400
+1  122_31   35_369    1    total service:400
+10  103_216  902_184   10    total service:400
+10  527_74  742_119  100_207   10    total service:400
+10 1230_400   10    total service:400
+10  351_201  742_111   48_39 1230_49   10    total service:400
+4  890_148  536_252    4    total service:400
+6 1206_45   95_355    6    total service:400
+1 1005_27  122_373    1    total service:400
+10  560_275  302_125   10    total service:400
+10  381_261  432_35  560_104   10    total service:400
+4 1063_400    4    total service:400
+6  773_190 1009_115  686_5  971_90    6    total service:400
+0 1166_222 1082_178    0    total service:400
+13 1044_242   76_158   13    total service:400
+10 1157_254  193_146   10    total service:400
+10  585_305  351_95   10    total service:400
+14  787_38  263_93  839_269   14    total service:400
+10 1242_19 1153_109  406_223  103_49   10    total service:400
+10 1242_81   37_319   10    total service:400
+9  714_233  267_49 1171_118    9    total service:400
+10  442_347 1242_53   10    total service:400
+10 1157_136  680_72  310_43  990_46  578_103   10    total service:400
+1  521_48 1005_352    1    total service:400
+0  622_245 1166_155    0    total service:400
+9  394_237  226_41  714_122    9    total service:400
+0  574_72 1248_172  585_30  622_126    0    total service:400
+10 1104_86  756_54  721_171  779_89   10    total service:400
+2  627_132  692_4  833_264    2    total service:400
+14  787_78  257_122  620_200   14    total service:400
+1  540_351  662_49    1    total service:400
+13 1015_38 1214_265  899_97   13    total service:400
+10  251_183 1137_178  442_39   10    total service:400
+9  226_400    9    total service:400
+9  934_132 1206_130  451_4  503_53  524_78  226_3    9    total service:400
+13  968_231  648_143 1044_26   13    total service:400
+13  848_75  389_255  704_60  259_10   13    total service:400
+6  703_31  613_369    6    total service:400
+1  521_67  890_333    1    total service:400
+10  992_400   10    total service:400
+10  904_206  432_132  992_62   10    total service:400
+0  416_9  752_234   97_157    0    total service:400
+10  756_185 1262_82   94_133   10    total service:400
+6 1009_39  703_361    6    total service:400
+1  853_40 1231_336  540_24    1    total service:400
+2  957_242 1038_158    2    total service:400
+2 1175_156  957_244    2    total service:400
+13  312_24  407_22  559_107 1233_247   13    total service:400
+0  106_400    0    total service:400
+0 1063_28  396_296 1248_58  106_18    0    total service:400
+1  483_144  521_256    1    total service:400
+13 1107_44  648_356   13    total service:400
+13 1015_400   13    total service:400
+13  227_347 1015_53   13    total service:400
+2 1061_68  480_88 1175_244    2    total service:400
+13  692_236  960_164  227_0   13    total service:400
+2  462_82  679_318    2    total service:400
+1  672_79  483_321    1    total service:400
+13  610_361 1107_39   13    total service:400
+1  557_270  853_130    1    total service:400
+1  353_120  863_42   49_238    1    total service:400
+13  204_168  985_15  528_151  147_38  610_28   13    total service:400
+1  508_333  557_67    1    total service:400
+13  510_36 1156_131  960_233   13    total service:400
+13  334_105 1058_295   13    total service:400
+2  462_125  637_147 1061_128    2    total service:400
+1 1130_85  672_315    1    total service:400
+13  876_316  389_84   13    total service:400
+1  219_71 1168_329    1    total service:400
+13  510_290  876_110   13    total service:400
+0   72_348 1248_52    0    total service:400
+1  958_215  219_185    1    total service:400
+13 1090_349  510_51   13    total service:400
+0  334_63  416_337    0    total service:400
+1 1151_11  728_235 1247_98  508_56    1    total service:400
+1 1130_148  958_252    1    total service:400
+1  532_291 1130_109    1    total service:400
+5  632_180  231_15  376_21   65_151  251_33    5    total service:400
+1   96_99  353_301    1    total service:400
+0   72_36   84_364    0    total service:400
+1 1192_219  577_181    1    total service:400
+13   57_70  312_330   13    total service:400
+13  334_60  597_233  107_38   57_69   13    total service:400
+0  998_309   72_91    0    total service:400
+1  136_207   96_193    1    total service:400
+13  908_26  937_201  327_173   13    total service:400
+1  314_264  136_47  532_89    1    total service:400
+1  751_338 1192_62    1    total service:400
+13  132_208  678_51  908_141   13    total service:400
+13  736_83  653_253   58_62 1090_2   13    total service:400
+1   53_199  905_201    1    total service:400
+1  216_120  681_280    1    total service:400
+0  451_400    0    total service:400
+0  333_95  428_131  288_172  451_2    0    total service:400
+1  325_22  830_230 1260_15   53_133    1    total service:400
+1  216_289  728_48  770_63    1    total service:400
+1  780_290  751_110    1    total service:400
+1  830_169 1068_85 1094_3  770_143    1    total service:400
+2  383_103  653_38  684_138 1158_8  209_31  637_82    2    total service:400
+0  680_107 1008_207  998_86    0    total service:400
+1  314_49 1111_141  929_7 1008_192  780_11    1    total service:400
+13  927_327  528_73   13    total service:400
+13   82_134  595_265  927_1   13    total service:400
+1  830_77  803_71  485_252    1    total service:400
+13  678_111  835_56  595_75  449_158   13    total service:400
+5 1067_61  547_14  629_59  522_266    5    total service:400
+13 1143_242  623_153  678_5   13    total service:400
+13 1135_152  156_58 1046_144  114_46   13    total service:400
+5 1010_49  629_233 1238_118    5    total service:400
+0   83_108  855_49  597_243    0    total service:400
+2  695_375 1036_25    2    total service:400
+13  320_400   13    total service:400
+13  214_330  320_70   13    total service:400
+1  419_103  803_297    1    total service:400
+1  720_95  419_305    1    total service:400
+5  666_43 1010_357    5    total service:400
+15  666_138  904_26  720_74 1111_24  756_138   15    total service:400
+5  893_177  196_108  666_115    5    total service:400
+5  750_235 1211_123   65_42    5    total service:400
+13 1043_168  229_82   33_94  488_56   13    total service:400
+9  428_11  385_250  189_2  625_137    9    total service:400
+0  687_246 1119_154    0    total service:400
+13 1180_230   33_60  214_110   13    total service:400
+13  584_10  190_83  592_3  804_8  687_110   83_186   13    total service:400
+13 1120_65  156_335   13    total service:400
+13  115_400   13    total service:400
+13 1180_16   25_339  115_45   13    total service:400
+2   43_122  531_239  695_39    2    total service:400
+5 1211_140  636_220  893_40    5    total service:400
+0  804_123   52_277    0    total service:400
+13  944_29 1079_150 1180_221   13    total service:400
+5   98_279 1211_121    5    total service:400
+0  797_24 1100_183  906_193    0    total service:400
+13  930_211 1054_72  623_117   13    total service:400
+13  804_8 1120_392   13    total service:400
+0  972_157  804_243    0    total service:400
+13 1158_400   13    total service:400
+13  828_114 1188_242 1158_44   13    total service:400
+13  710_123  944_277   13    total service:400
+5   85_185   98_215    5    total service:400
+0  849_386  762_14    0    total service:400
+0  854_194  797_206    0    total service:400
+13  726_32  710_368   13    total service:400
+13  131_93  828_307   13    total service:400
+13  726_78  972_322   13    total service:400
+13  497_311  274_48  930_41   13    total service:400
+2  511_400    2    total service:400
+2   43_273  604_52   51_22  511_53    2    total service:400
+5  642_101  165_200   85_99    5    total service:400
+13  788_125  726_275   13    total service:400
+9  546_18  198_132 1009_250    9    total service:400
+13 1121_62  131_338   13    total service:400
+2  402_400    2    total service:400
+2   40_346  402_54    2    total service:400
+2 1012_296   40_5   51_99    2    total service:400
+5  356_64  642_336    5    total service:400
+5  618_5  758_160  356_235    5    total service:400
+2  834_83  931_133 1012_184    2    total service:400
+2  782_143  834_241 1121_16    2    total service:400
+9  260_100  198_300    9    total service:400
+9  260_285  189_66  824_49    9    total service:400
+5 1118_349  758_51    5    total service:400
+2 1003_194  782_206    2    total service:400
+2  414_188 1003_212    2    total service:400
+2  791_303 1024_97    2    total service:400
+2 1131_131  661_140  414_129    2    total service:400
+2  273_336  882_64    2    total service:400
+2  161_127  566_195  746_78    2    total service:400
+2  274_290 1131_110    2    total service:400
+2  784_315  321_61  274_24    2    total service:400
+2  849_71  224_4  788_325    2    total service:400
+9  824_400    9    total service:400
+9  455_252  668_110  824_38    9    total service:400
+2  791_17  969_119  117_233  273_31    2    total service:400
+2  896_180  224_220    2    total service:400
+9  854_142  733_258    9    total service:400
+2  808_254  896_146    2    total service:400
+9  455_176  129_70 1092_126  854_28    9    total service:400
+2  290_206  566_194    2    total service:400
+2 1263_165   62_29  117_206    2    total service:400
+2   39_41  135_359    2    total service:400
+2  481_57  847_67  290_248  808_28    2    total service:400
+2  321_266 1176_134    2    total service:400
+2   39_400    2    total service:400
+2 1035_245  594_82  795_50   39_23    2    total service:400
+2  144_400    2    total service:400
+2   42_150  795_173  144_77    2    total service:400
+2 1078_271  530_67  321_62    2    total service:400
+2 1105_400    2    total service:400
+2 1078_217 1147_83 1081_69 1105_31    2    total service:400
+2  621_311  928_19   42_70    2    total service:400
+2  459_99  607_301    2    total service:400
+2   63_241  242_138  459_21    2    total service:400
+9  109_298 1092_102    9    total service:400
+2  711_113  705_20 1091_267    2    total service:400
+9  805_230  109_170    9    total service:400
+9   31_289  981_66  805_45    9    total service:400
+14  915_41 1183_90  591_35 1263_189  787_45   14    total service:400
+15 1228_49  468_167  590_10   31_174   15    total service:400
+15  481_200  711_41  468_20   63_139   15    total service:400
+15  292_136 1002_159  711_105   15    total service:400
+15  489_242 1002_158   15    total service:400
+15  928_146 1147_39  489_215   15    total service:400
+14  915_400   14    total service:400
+5 1118_40    5    total service:40
+14  928_44   18_249  915_17   14    total service:310

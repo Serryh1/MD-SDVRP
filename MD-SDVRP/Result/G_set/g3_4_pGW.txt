@@ -1,0 +1,639 @@
+remain_capacity is: 15256
+valid solution is : 2304
+
+
+
+The minimum cost route is : 497874.9139348525
+The Route is: 
+depot is : 13   983_286 662_114 depot_13 ( X 1) the tot demand is : 400
+depot is : 13   662_276 551_11 281_6 371_38 831_69 depot_13 ( X 1) the tot demand is : 400
+depot is : 13   895_30 177_83 81_36 694_33 885_218 depot_13 ( X 1) the tot demand is : 400
+depot is : 13   373_136 696_27 737_237 depot_13 ( X 1) the tot demand is : 400
+depot is : 13   414_60 982_2 470_98 832_236 326_4 depot_13 ( X 1) the tot demand is : 400
+depot is : 13   800_122 414_245 977_33 depot_13 ( X 1) the tot demand is : 400
+depot is : 13   735_197 800_203 depot_13 ( X 1) the tot demand is : 400
+depot is : 13   735_40 252_360 depot_13 ( X 1) the tot demand is : 400
+depot is : 13   625_270 172_9 38_13 918_43 736_14 335_13 depot_13 ( X 1) the tot demand is : 362
+depot is : 13   696_400 depot_13 ( X 1) the tot demand is : 400
+depot is : 13   551_400 depot_13 ( X 1) the tot demand is : 400
+depot is : 12   365_33 779_90 962_95 566_182 depot_12 ( X 1) the tot demand is : 400
+depot is : 12   540_85 365_315 depot_12 ( X 1) the tot demand is : 400
+depot is : 12   111_241 717_159 depot_12 ( X 1) the tot demand is : 400
+depot is : 12   717_92 786_308 depot_12 ( X 1) the tot demand is : 400
+depot is : 12   425_77 50_267 786_56 depot_12 ( X 1) the tot demand is : 400
+depot is : 12   962_400 depot_12 ( X 1) the tot demand is : 400
+depot is : 11   261_176 517_224 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   261_107 760_26 474_89 228_38 290_59 358_81 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   358_292 402_108 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   888_350 347_3 402_47 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   854_65 347_45 912_290 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   854_143 586_257 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   325_105 586_140 406_155 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   406_207 161_56 331_137 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   931_157 42_78 633_165 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   47_158 931_242 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   47_186 753_214 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   641_84 872_89 375_17 827_22 412_25 404_108 580_55 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   51_212 404_188 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   182_293 51_107 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   60_62 549_61 182_87 638_53 533_8 877_83 212_46 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   582_217 883_26 964_60 549_97 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   964_298 195_102 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   195_202 61_60 16_138 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   58_220 16_180 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   288_48 58_12 26_129 932_34 556_78 789_99 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   536_21 1009_285 594_19 26_75 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   536_277 636_123 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   302_287 636_88 873_21 511_4 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   302_66 171_334 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   984_115 171_15 359_244 969_26 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   994_24 667_323 359_53 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   761_59 53_74 308_20 994_247 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   445_17 434_60 56_213 430_68 761_42 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   426_124 203_78 204_17 315_120 445_61 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   426_81 564_30 276_53 221_236 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   405_180 221_28 251_25 19_167 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   91_168 251_232 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   91_178 620_78 707_119 729_25 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   729_6 105_337 175_57 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   543_171 951_115 202_66 105_48 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   543_94 706_290 116_16 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   116_197 771_98 342_105 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   342_276 149_124 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   115_80 278_35 589_45 149_240 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   998_196 115_36 46_168 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   863_279 199_112 998_9 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   199_156 362_244 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   59_7 125_270 742_16 362_107 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   742_193 407_207 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   578_151 491_90 275_12 407_147 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   275_180 83_218 483_2 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   83_177 519_20 348_141 1000_62 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   67_30 117_76 666_57 20_98 605_139 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   666_243 728_8 57_149 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   728_55 782_18 140_155 422_123 66_49 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   782_156 305_22 806_182 627_40 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   969_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   932_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   877_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   827_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   760_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   729_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   728_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   643_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   620_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   594_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   580_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   533_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   531_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   511_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   474_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   445_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   356_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   308_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   278_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   249_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   212_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   202_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   161_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   117_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   68_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   67_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   66_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   61_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   59_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 11   42_400 depot_11 ( X 1) the tot demand is : 400
+depot is : 10   861_276 724_124 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   447_178 724_222 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   991_267 703_57 731_76 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   110_35 731_274 940_91 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   816_184 99_64 683_152 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   630_232 816_168 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   630_154 198_246 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   899_220 869_72 198_108 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   899_126 386_17 162_257 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   162_53 374_104 730_75 222_121 901_39 232_8 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   163_3 504_269 374_128 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   103_103 191_155 544_142 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   21_183 103_20 262_197 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   100_147 862_29 211_69 928_155 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   979_170 915_22 695_15 687_92 928_101 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   908_197 979_32 794_171 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   754_233 794_153 876_14 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   80_170 876_230 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   80_220 572_180 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   572_139 995_1 68_97 914_150 401_13 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   644_203 995_197 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   710_205 388_109 644_86 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   458_28 615_164 710_37 981_75 127_96 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   649_77 381_49 76_258 615_7 354_9 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   949_161 654_8 354_7 896_224 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   109_204 896_25 88_171 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   109_71 263_329 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   263_34 421_189 186_122 65_55 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   65_19 933_43 453_24 858_209 29_105 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   787_191 745_209 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   745_8 40_179 871_150 797_63 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   427_27 528_186 640_31 535_27 40_129 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   427_277 637_41 498_6 238_76 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   214_49 238_127 513_97 592_127 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   181_137 727_91 464_37 471_85 248_50 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   727_86 303_7 398_307 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   299_33 518_323 398_44 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   98_138 299_111 897_151 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   328_60 610_46 907_58 98_133 978_103 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   436_47 978_47 239_306 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   436_254 548_140 570_6 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   542_154 1002_239 548_7 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   339_198 360_42 826_160 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   293_78 360_322 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   750_52 334_155 814_193 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   981_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   933_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   915_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   862_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   797_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   688_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   654_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   649_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   637_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   610_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   535_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   471_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   458_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   446_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   438_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   386_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   354_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   306_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   303_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   214_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 10   163_400 depot_10 ( X 1) the tot demand is : 400
+depot is : 9   653_182 609_218 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   676_43 210_225 609_132 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   856_204 676_196 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   628_232 506_90 141_15 856_63 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   86_185 153_5 755_162 598_48 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   904_20 153_1 383_353 823_26 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   904_41 999_354 906_5 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   937_67 906_333 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   937_272 686_128 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   686_271 517_124 332_5 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   656_145 161_9 595_246 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   957_51 319_85 656_125 784_139 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   319_234 633_105 643_8 356_53 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   585_107 704_96 194_148 305_49 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   585_112 989_288 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   522_113 270_28 905_212 989_47 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   185_291 905_109 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   847_50 185_80 312_76 45_60 431_134 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   192_17 623_229 847_154 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   87_286 844_69 192_45 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   286_152 87_8 451_45 680_195 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   451_338 732_62 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   732_186 795_214 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   795_154 130_141 253_105 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   253_106 521_17 27_246 608_18 997_13 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   997_400 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   957_400 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   904_400 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   844_400 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   704_400 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   506_400 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   332_400 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   312_400 depot_9 ( X 1) the tot demand is : 400
+depot is : 9   45_400 depot_9 ( X 1) the tot demand is : 400
+depot is : 8   845_58 616_23 655_263 341_15 321_41 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   799_19 112_16 341_365 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   612_48 799_49 537_303 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   133_171 612_187 861_42 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   370_106 168_96 447_116 557_82 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   557_59 579_89 310_57 532_9 92_186 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   92_78 913_322 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   913_42 446_27 993_204 329_43 714_84 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   722_98 456_287 714_15 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   530_145 722_255 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   520_33 530_161 921_206 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   155_266 921_44 393_21 875_69 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   393_31 939_249 246_120 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   829_164 712_93 412_14 939_129 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   268_56 428_16 1000_156 516_172 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   258_4 193_369 516_27 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   201_277 85_4 835_38 258_6 48_75 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   819_177 679_129 743_94 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   819_148 380_56 461_108 631_88 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   824_46 574_196 285_55 601_103 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   824_291 837_109 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   837_24 569_376 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   569_20 850_77 839_39 531_28 20_236 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   73_19 813_289 460_59 972_33 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   802_15 975_128 749_14 558_39 798_204 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   353_136 390_168 825_96 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   353_11 775_5 665_7 159_367 886_10 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   54_139 357_261 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   54_229 496_67 725_104 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   841_253 507_25 746_7 291_78 725_37 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   555_109 477_205 841_86 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   568_257 741_125 depot_8 ( X 1) the tot demand is : 382
+depot is : 8   875_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   850_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   839_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   835_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   775_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   749_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   740_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   579_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   532_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   520_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   519_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   496_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   428_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   412_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   401_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   393_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   329_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   321_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 8   258_400 depot_8 ( X 1) the tot demand is : 400
+depot is : 7   316_170 345_224 911_6 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   316_171 887_104 702_125 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   902_7 987_41 887_278 747_52 142_22 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   747_190 721_195 440_15 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   399_130 440_60 738_114 272_96 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   892_3 349_96 235_202 512_99 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   577_99 562_19 295_197 349_84 764_1 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   764_1 439_191 1005_197 851_11 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   439_1 304_25 200_133 484_45 584_196 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   304_335 501_65 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   501_74 514_84 635_73 420_169 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   78_50 867_201 647_58 538_91 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   1007_155 853_85 645_160 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   1007_46 755_211 593_45 363_98 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   154_55 499_88 48_257 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   780_59 432_100 499_241 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   780_239 157_107 84_54 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   743_36 409_60 948_244 84_60 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   523_70 380_255 601_75 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   521_35 599_62 119_303 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   143_101 651_48 469_234 910_17 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   769_39 972_9 651_152 415_200 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   408_47 18_32 73_321 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   408_201 751_199 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   751_104 944_40 945_25 160_218 571_1 196_12 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   801_25 812_263 828_54 196_58 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   801_326 437_1 573_73 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   437_250 327_58 369_92 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   327_45 534_98 323_257 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   323_42 282_358 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   632_24 448_193 90_146 716_37 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   632_246 909_44 774_110 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   909_165 292_83 259_106 791_46 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   954_205 802_65 834_130 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   996_77 300_72 740_41 33_43 954_167 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   33_282 838_118 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   14_169 843_193 886_38 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   843_191 758_24 659_185 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   346_96 459_229 659_75 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   346_293 884_107 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   318_55 317_207 1001_79 650_40 884_19 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   890_47 879_201 893_116 650_36 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   462_115 890_285 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   465_92 607_95 158_65 396_7 462_22 324_119 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   102_22 930_26 946_4 720_138 684_92 324_61 781_57 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   781_76 244_38 443_18 208_13 466_255 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   311_57 588_213 466_130 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   311_38 357_115 389_61 340_186 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   657_240 540_160 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   150_166 657_18 776_216 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   307_96 481_169 150_135 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   481_17 227_95 189_133 479_78 788_56 691_21 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   227_179 444_195 763_26 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   229_61 763_339 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   229_175 809_225 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   809_129 39_132 111_139 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   568_10 467_3 698_29 711_175 425_183 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   996_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   987_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   946_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   944_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   930_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   892_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   788_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   769_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   758_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   698_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   593_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   573_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   571_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   521_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   512_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   460_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   455_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   440_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   432_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   389_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   363_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   318_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   292_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   272_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   196_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   154_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   142_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 7   18_400 depot_7 ( X 1) the tot demand is : 400
+depot is : 6   475_18 831_25 757_357 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   177_307 132_93 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   1013_20 118_66 44_191 81_123 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   936_259 1013_55 126_86 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   245_284 936_84 505_32 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   242_336 505_64 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   242_39 148_186 881_31 173_144 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   419_138 715_153 148_109 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   442_19 419_96 663_45 416_203 93_37 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   114_53 442_166 166_13 920_168 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   166_382 372_4 792_14 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   372_212 500_35 256_153 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   597_88 1008_90 560_92 256_102 260_28 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   713_8 136_170 980_113 260_109 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   821_104 713_296 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   880_113 821_216 805_71 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   1010_111 880_231 146_58 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   31_29 971_84 634_86 952_201 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   352_208 124_52 766_140 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   919_20 170_45 352_38 864_297 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   559_54 864_1 301_345 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   903_252 274_148 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   942_46 726_280 903_65 273_9 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   273_204 898_176 233_20 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   898_169 590_231 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   590_77 120_299 793_24 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   793_252 966_40 134_63 830_45 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   971_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   919_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   805_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   792_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   694_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   663_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   597_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   505_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   500_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   475_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   170_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   124_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 6   114_400 depot_6 ( X 1) the tot demand is : 400
+depot is : 5   72_14 280_386 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   968_71 72_150 983_19 860_160 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   391_63 355_98 752_99 646_106 107_34 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   219_74 646_204 737_122 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   982_347 373_53 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   441_7 723_26 874_101 463_227 252_39 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   62_30 463_49 661_321 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   865_25 62_344 394_31 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   865_212 958_96 417_65 683_27 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   89_94 772_301 1002_5 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   364_64 77_24 165_217 89_92 678_3 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   449_193 624_126 165_81 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   97_260 916_55 449_85 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   206_260 916_140 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   104_22 509_116 337_176 206_15 63_71 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   810_40 836_75 337_204 515_81 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   515_225 748_75 759_100 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   759_119 70_132 385_149 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   385_75 339_66 178_259 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   334_93 293_307 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   30_2 965_131 306_15 668_165 814_87 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   34_25 817_367 30_8 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   313_75 866_111 197_208 34_6 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   313_292 147_108 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   658_121 147_279 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   822_343 658_57 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   625_40 822_15 673_189 619_156 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   958_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   918_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   810_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   748_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   736_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   678_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   470_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   394_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   364_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   335_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   326_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   281_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   219_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   63_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   38_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   34_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   30_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 5   15_400 depot_5 ( X 1) the tot demand is : 400
+depot is : 4   672_97 382_91 420_212 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   538_134 672_266 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   708_130 78_270 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   708_195 583_205 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   179_31 482_293 583_76 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   878_54 230_35 808_45 435_90 179_176 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   878_22 139_335 32_43 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   32_210 257_190 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   785_90 79_217 366_39 257_54 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   135_109 785_291 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   135_52 397_117 96_231 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   765_140 397_260 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   400_137 403_49 765_214 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   685_6 400_21 265_373 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   28_41 685_359 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   576_73 28_296 963_14 639_17 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   576_241 526_23 681_136 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   55_112 681_202 492_86 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   959_242 55_158 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   106_17 457_79 626_95 956_69 959_140 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   223_117 106_283 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   267_68 129_1 138_77 180_5 917_190 611_20 223_39 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   682_65 322_20 267_154 554_88 495_72 926_1 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   889_291 554_22 924_87 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   152_190 889_33 137_75 587_75 376_27 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   413_221 152_179 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   953_38 947_203 413_2 69_3 697_138 37_16 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   69_149 524_239 718_12 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   718_379 320_21 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   849_61 320_20 653_125 49_194 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   243_72 41_48 955_228 857_52 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   770_74 617_326 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   613_216 770_184 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   818_226 613_174 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   469_161 497_99 818_140 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   485_57 934_254 744_49 433_15 36_25 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   472_229 36_65 236_106 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   783_217 472_119 145_23 773_41 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   121_333 541_45 790_2 783_20 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   591_146 790_254 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   739_86 591_51 279_263 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   183_126 279_71 220_182 23_21 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   183_114 600_125 205_161 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   600_236 296_86 660_78 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   296_264 510_66 254_70 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   922_237 144_135 254_28 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   502_16 351_47 176_214 490_55 144_68 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   490_151 833_249 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   833_9 699_85 815_106 75_200 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   75_36 935_248 429_116 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   429_206 294_194 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   294_200 842_200 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   842_42 314_161 24_122 882_75 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   314_132 846_268 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   846_19 547_303 807_44 719_14 494_20 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   494_212 423_188 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   423_209 151_191 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   151_52 716_168 333_180 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   123_369 424_31 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   642_1 250_54 424_345 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   950_68 250_332 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   950_156 309_225 566_19 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   992_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   963_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   956_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   953_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   926_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   924_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   910_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   882_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   857_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   808_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   807_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   719_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   682_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   642_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   611_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   587_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   541_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   514_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   510_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   502_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   495_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   492_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   485_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   457_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   435_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   382_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   376_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   366_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   351_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   343_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   320_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   254_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   230_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   145_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   129_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   36_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 4   23_400 depot_4 ( X 1) the tot demand is : 400
+depot is : 3   923_25 581_375 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   392_55 923_345 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   565_161 392_20 973_49 677_36 563_53 622_81 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   973_177 297_223 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   911_166 146_234 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   269_35 95_199 344_80 738_86 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   489_253 269_147 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   705_30 209_53 527_74 489_1 43_8 277_225 545_1 377_8 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   338_29 811_301 43_23 452_47 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   675_253 473_118 811_29 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   473_205 777_102 974_93 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   454_32 777_296 840_43 692_29 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   840_317 468_83 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   986_201 207_62 468_137 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   986_99 361_92 701_26 709_107 184_26 82_50 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   361_261 25_139 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   25_79 190_148 689_135 52_38 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   52_96 606_278 283_26 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   952_103 283_297 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   395_188 31_53 94_88 561_71 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   410_18 700_16 669_15 870_190 395_161 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   224_27 410_373 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   224_23 618_22 960_92 778_261 891_2 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   284_96 218_255 891_49 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   284_113 1003_44 113_243 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   1003_110 213_65 943_101 803_51 368_73 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   900_116 368_284 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   768_129 418_1 900_270 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   108_158 768_242 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   108_219 820_21 378_160 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   74_92 156_21 820_195 235_92 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   387_148 164_70 225_13 868_48 734_99 791_22 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   350_171 266_16 387_213 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   266_38 271_19 525_343 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   1006_177 603_169 525_54 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   575_59 234_285 1006_7 101_49 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   101_41 929_241 226_29 796_89 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   927_153 796_144 379_103 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   169_175 927_170 552_55 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   762_145 169_28 550_132 64_95 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   546_159 762_241 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   546_33 690_30 247_61 188_219 567_57 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   217_84 690_316 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   493_27 508_93 970_49 217_231 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   970_48 22_81 503_62 766_209 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   367_172 559_228 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   367_84 450_25 941_43 852_11 330_21 975_216 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   255_86 674_66 838_239 476_9 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   674_121 187_279 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   187_76 241_303 274_21 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   990_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   970_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   960_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   941_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   891_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   705_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   677_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   622_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   567_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   527_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   508_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   476_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   450_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   392_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   377_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   338_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   271_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   224_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   184_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   82_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 3   22_400 depot_3 ( X 1) the tot demand is : 400
+depot is : 2   486_30 767_67 830_303 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   488_165 529_208 486_18 336_9 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   529_69 231_98 648_76 131_71 671_86 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   671_132 804_61 976_103 756_104 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   804_211 894_22 17_53 438_15 703_99 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   298_40 985_79 596_43 191_238 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   122_72 262_134 621_194 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   604_207 122_193 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   604_47 553_64 215_289 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   825_277 553_123 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   477_180 602_93 487_127 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   1004_181 487_219 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   1004_142 961_35 384_223 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   384_93 216_81 211_226 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   767_400 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   648_400 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   602_400 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   596_400 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   336_400 depot_2 ( X 1) the tot demand is : 400
+depot is : 2   216_400 depot_2 ( X 1) the tot demand is : 400
+depot is : 1   1012_65 110_126 614_209 depot_1 ( X 1) the tot demand is : 400
+depot is : 1   71_225 614_35 289_127 938_13 depot_1 ( X 1) the tot demand is : 400
+depot is : 1   71_8 107_326 848_66 depot_1 ( X 1) the tot demand is : 400
+depot is : 1   859_79 264_258 504_39 596_24 depot_1 ( X 1) the tot demand is : 400
+depot is : 1   29_16 664_18 688_2 733_274 787_90 depot_1 ( X 1) the tot demand is : 400
+depot is : 1   901_400 depot_1 ( X 1) the tot demand is : 400
+depot is : 1   723_400 depot_1 ( X 1) the tot demand is : 400
+depot is : 1   664_400 depot_1 ( X 1) the tot demand is : 400
+depot is : 0   670_166 628_115 925_119 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   670_167 35_73 167_150 478_10 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   853_147 478_92 652_92 1011_69 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   599_140 629_45 240_215 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   240_157 237_243 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   237_120 41_280 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   480_116 539_151 617_3 243_129 411_1 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   967_135 282_1 174_264 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   287_249 988_24 967_96 693_31 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   693_337 855_63 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   855_273 128_127 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   128_191 433_209 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   1011_400 depot_0 ( X 1) the tot demand is : 400
+depot is : 0   35_400 depot_0 ( X 1) the tot demand is : 400
+The running time is : 3600.0825757450 s

@@ -1,0 +1,45 @@
+partition 1 can not be satify! 
+partition 7 can not be satify! 
+partition 10 can not be satify! 
+partition 14 can not be satify! 
+partition 17 can not be satify! 
+partition 20 can not be satify! 
+partition 21 can not be satify! 
+partition 24 can not be satify! 
+partition 29 can not be satify! 
+partition 30 can not be satify! 
+partition 32 can not be satify! 
+partition 33 can not be satify! 
+partition 34 can not be satify! 
+partition 41 can not be satify! 
+partition 42 can not be satify! 
+partition 45 can not be satify! 
+partition 46 can not be satify! 
+partition 49 can not be satify! 
+partition 50 can not be satify! 
+partition 51 can not be satify! 
+compute rounds : 32
+
+
+
+The minimum cost route is : 52187.3262595702
+The Route is: 
+depot is : 5   23_80 22_20 depot_5 ( X 1) the tot demand is : 100
+depot is : 5   11_90 23_10 depot_5 ( X 1) the tot demand is : 100
+depot is : 5   10_60 9_40 depot_5 ( X 1) the tot demand is : 100
+depot is : 4   28_50 29_50 depot_4 ( X 1) the tot demand is : 100
+depot is : 4   16_60 15_40 depot_4 ( X 1) the tot demand is : 100
+depot is : 4   27_40 26_60 depot_4 ( X 1) the tot demand is : 100
+depot is : 3   12_40 14_60 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   12_20 24_60 25_20 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   13_30 25_70 depot_3 ( X 1) the tot demand is : 100
+depot is : 2   6_60 7_40 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   18_60 29_40 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   17_90 28_10 depot_2 ( X 1) the tot demand is : 100
+depot is : 1   8_10 19_90 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   7_50 8_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   20_60 21_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 0   15_50 27_50 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   13_60 22_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   9_50 21_50 depot_0 ( X 1) the tot demand is : 100
+The running time is : 0.0114545280 s

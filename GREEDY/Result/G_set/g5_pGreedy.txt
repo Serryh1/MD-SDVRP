@@ -1,0 +1,761 @@
+tot capacity is : 82200
+need capacity is : 75234
+Minimum cost (without opt2):638215.2108387104
+--------------------
+The run time (without opt-2) is: 19.1978300000 (s) 
+The minimum cost is:638215.2108387104
+The run time is:19.1978300000(s)
+The optimal route and corresponding demands serviced:
+0  511_25  331_75    0    total service:100
+11   23_25  591_53   52_3  667_19   11    total service:100
+10   54_100   10    total service:100
+10  304_6   54_94   10    total service:100
+6  595_80  671_20    6    total service:100
+0  511_100    0    total service:100
+6  157_24  163_52  595_24    6    total service:100
+9  308_100    9    total service:100
+9   51_36  635_50  308_14    9    total service:100
+1   82_100    1    total service:100
+1  319_48  305_42   82_10    1    total service:100
+0   83_35  287_6  511_59    0    total service:100
+7  720_17  443_83    7    total service:100
+11   23_100   11    total service:100
+11  225_43   23_57   11    total service:100
+3  605_100    3    total service:100
+3  672_3  605_97    3    total service:100
+1   25_100    1    total service:100
+1  650_5   25_95    1    total service:100
+5  236_9  565_51  736_40    5    total service:100
+7  193_65  200_35    7    total service:100
+5  343_100    5    total service:100
+5  405_45  343_55    5    total service:100
+10  396_100   10    total service:100
+10  531_17  396_83   10    total service:100
+6  506_100    6    total service:100
+6  530_75  506_25    6    total service:100
+10  472_24  694_3  304_73   10    total service:100
+1  461_100    1    total service:100
+1   22_47  461_53    1    total service:100
+4  715_38   69_62    4    total service:100
+4   59_100    4    total service:100
+4  372_20   59_80    4    total service:100
+4  372_48  218_17  698_35    4    total service:100
+1  305_13  664_57  650_30    1    total service:100
+2   96_100    2    total service:100
+2   65_26  182_21  414_17  562_10   96_26    2    total service:100
+2  243_51  330_37  114_12    2    total service:100
+10  472_100   10    total service:100
+10  488_74  472_26   10    total service:100
+8  353_100    8    total service:100
+8  142_33  188_33  353_34    8    total service:100
+4  557_26  679_38  372_36    4    total service:100
+5  405_100    5    total service:100
+5  288_48  405_52    5    total service:100
+11  310_100   11    total service:100
+11  392_40  700_40  310_20   11    total service:100
+6  208_14  232_42  157_44    6    total service:100
+7  720_100    7    total service:100
+7   58_37  720_63    7    total service:100
+3   89_100    3    total service:100
+3  209_4   89_96    3    total service:100
+3  606_100    3    total service:100
+3  281_13  606_87    3    total service:100
+5  288_100    5    total service:100
+5  575_55  288_45    5    total service:100
+7  663_68   58_32    7    total service:100
+5  196_100    5    total service:100
+5  311_12  220_57  196_31    5    total service:100
+9  558_67  635_33    9    total service:100
+3   31_95  672_5    3    total service:100
+2  758_100    2    total service:100
+2  440_55  450_34  758_11    2    total service:100
+1   22_100    1    total service:100
+1  242_37  159_20  612_28   22_15    1    total service:100
+11  409_100   11    total service:100
+11   21_46  409_54   11    total service:100
+1   37_100    1    total service:100
+1  743_72   37_28    1    total service:100
+3  554_43  273_57    3    total service:100
+1  240_100    1    total service:100
+1  425_63  240_37    1    total service:100
+5  565_100    5    total service:100
+5  184_16  179_56  565_28    5    total service:100
+6   24_50  239_26  578_24    6    total service:100
+0  513_36  425_64    0    total service:100
+10  502_22  488_78   10    total service:100
+10  590_100   10    total service:100
+10  395_27  590_73   10    total service:100
+1  679_100    1    total service:100
+1   99_92  679_8    1    total service:100
+1  366_61   99_39    1    total service:100
+1  513_13  743_87    1    total service:100
+11  682_31  751_8   42_57   27_4   11    total service:100
+0  100_1  516_51  607_48    0    total service:100
+0  513_35  287_65    0    total service:100
+11  260_51  148_49   11    total service:100
+3  349_96   31_4    3    total service:100
+11  658_100   11    total service:100
+11  724_3  658_97   11    total service:100
+4  704_100    4    total service:100
+4  309_63  704_37    4    total service:100
+0  368_80  427_20    0    total service:100
+8  550_91  674_9    8    total service:100
+6   24_100    6    total service:100
+6  712_63   24_37    6    total service:100
+1  512_100    1    total service:100
+1  358_6  512_94    1    total service:100
+3  554_13  541_87    3    total service:100
+11  682_3  731_97   11    total service:100
+3  554_100    3    total service:100
+3   57_59  554_41    3    total service:100
+4  241_74  660_26    4    total service:100
+4  715_100    4    total service:100
+4   95_45  517_23  715_32    4    total service:100
+9  558_20  444_26  723_54    9    total service:100
+11   21_100   11    total service:100
+11  756_66   21_34   11    total service:100
+4  358_25  366_75    4    total service:100
+4  561_100    4    total service:100
+4  223_23  561_77    4    total service:100
+3  209_100    3    total service:100
+3  321_45  748_14  209_41    3    total service:100
+4  358_100    4    total service:100
+4  642_62  358_38    4    total service:100
+5  739_6  311_94    5    total service:100
+11  528_13  225_87   11    total service:100
+0  346_56  513_44    0    total service:100
+6  127_60  520_12  208_28    6    total service:100
+0  728_67  368_33    0    total service:100
+4  642_100    4    total service:100
+4  177_65  642_35    4    total service:100
+3  529_26  686_44  407_30    3    total service:100
+10  531_100   10    total service:100
+10  219_86  531_14   10    total service:100
+5  575_100    5    total service:100
+5  509_67  575_33    5    total service:100
+0  355_30  202_13  477_4  612_53    0    total service:100
+5  186_100    5    total service:100
+5  130_15  186_85    5    total service:100
+8  188_100    8    total service:100
+8  757_33  115_57  188_10    8    total service:100
+8   61_82  155_18    8    total service:100
+9  160_100    9    total service:100
+9  428_71  160_29    9    total service:100
+7  129_61  713_35  193_4    7    total service:100
+2  330_100    2    total service:100
+2  190_39  574_19  330_42    2    total service:100
+9   92_16  428_84    9    total service:100
+6  253_27  500_73    6    total service:100
+6  659_76  530_24    6    total service:100
+5  752_88   94_12    5    total service:100
+3  270_98  281_2    3    total service:100
+2  284_12   73_88    2    total service:100
+5  184_100    5    total service:100
+5  709_81  184_19    5    total service:100
+1  286_74  664_26    1    total service:100
+2  408_45  525_55    2    total service:100
+8  434_4   30_75  611_21    8    total service:100
+3  336_39  558_26   72_35    3    total service:100
+4  742_54  177_46    4    total service:100
+9  294_100    9    total service:100
+9  295_92  294_8    9    total service:100
+10  471_100   10    total service:100
+10  651_7  395_21  471_72   10    total service:100
+11  424_17  260_83   11    total service:100
+3  352_64  754_36    3    total service:100
+5  452_27  130_73    5    total service:100
+4  404_25  614_75    4    total service:100
+4  223_100    4    total service:100
+4  316_30  223_70    4    total service:100
+4  316_0  494_59   56_12  241_29    4    total service:100
+9  385_39  558_61    9    total service:100
+2  348_64  408_36    2    total service:100
+7   47_55  663_45    7    total service:100
+0  665_100    0    total service:100
+0  458_36  665_64    0    total service:100
+7  276_31  357_55  129_14    7    total service:100
+6  520_34  480_66    6    total service:100
+3  465_97   57_3    3    total service:100
+2  284_67  182_33    2    total service:100
+3  205_100    3    total service:100
+3  529_55  205_45    3    total service:100
+1  265_100    1    total service:100
+1  576_17  265_83    1    total service:100
+4  402_57  309_43    4    total service:100
+4  560_31  568_69    4    total service:100
+1  742_10  636_53  576_37    1    total service:100
+11  662_20  421_80   11    total service:100
+0  279_100    0    total service:100
+0  390_6  279_94    0    total service:100
+2  652_2  284_98    2    total service:100
+3  269_19  529_81    3    total service:100
+7  276_70   93_20  744_10    7    total service:100
+0  601_65  100_35    0    total service:100
+11  677_68  700_32   11    total service:100
+4  216_94   95_6    4    total service:100
+6  356_56  661_33  228_6  253_5    6    total service:100
+3  453_94  349_6    3    total service:100
+11  255_100   11    total service:100
+11  653_60  255_40   11    total service:100
+5  328_66  709_34    5    total service:100
+7  711_28   47_72    7    total service:100
+11  724_100   11    total service:100
+11  619_59  724_41   11    total service:100
+11  111_3  462_8  756_89   11    total service:100
+6  247_51  235_49    6    total service:100
+11  653_46  340_49  619_5   11    total service:100
+3  453_15  389_68  270_17    3    total service:100
+0  363_8  189_10  726_74  390_8    0    total service:100
+8  634_57  442_24  393_19    8    total service:100
+11  682_100   11    total service:100
+11  105_16  730_11  638_54  682_19   11    total service:100
+5   79_5  328_95    5    total service:100
+0  601_2  381_98    0    total service:100
+8  641_5   61_95    8    total service:100
+5  451_100    5    total service:100
+5  752_40  520_27   79_7  451_26    5    total service:100
+6  520_100    6    total service:100
+6  687_22  301_44  228_22  520_12    6    total service:100
+11   32_26  528_74   11    total service:100
+9  295_48  750_48  385_4    9    total service:100
+1   14_30  622_43  346_27    1    total service:100
+5  452_5  479_95    5    total service:100
+10  152_86  651_14   10    total service:100
+3  364_43  465_57    3    total service:100
+0  477_77  172_23    0    total service:100
+5  361_100    5    total service:100
+5  617_91  361_9    5    total service:100
+11   32_100   11    total service:100
+11  625_52   32_48   11    total service:100
+10  139_20  547_40  502_40   10    total service:100
+5   75_48  739_52    5    total service:100
+0  298_100    0    total service:100
+0  199_67  298_33    0    total service:100
+8  641_100    8    total service:100
+8  620_55  641_45    8    total service:100
+6  559_39  570_13  659_48    6    total service:100
+4  342_42  404_58    4    total service:100
+0  494_80  477_20    0    total service:100
+4  583_100    4    total service:100
+4  126_3  583_97    4    total service:100
+4  598_100    4    total service:100
+4  206_100  598_0    4    total service:100
+6  264_100  712_0    6    total service:100
+0  458_100    0    total service:100
+0  473_62  458_38    0    total service:100
+4  402_5  126_95    4    total service:100
+8  550_100    8    total service:100
+8  553_98  550_2    8    total service:100
+0  563_46  601_54    0    total service:100
+11  448_17  685_41  325_40  625_2   11    total service:100
+6  675_28  482_64  247_8    6    total service:100
+7  540_66  276_34    7    total service:100
+10  540_100   10    total service:100
+10  139_38  753_61  540_1   10    total service:100
+11  318_9  132_16  347_33  424_42   11    total service:100
+11  730_7  662_93   11    total service:100
+5  317_100    5    total service:100
+5   75_37  317_63    5    total service:100
+1  643_100    1    total service:100
+1  171_7  581_52  636_1  643_40    1    total service:100
+8   84_100    8    total service:100
+8  692_28   84_72    8    total service:100
+4  649_27  402_73    4    total service:100
+5  452_100    5    total service:100
+5  637_6  732_63  452_31    5    total service:100
+11   40_100   11    total service:100
+11  676_79  675_12   40_9   11    total service:100
+11  693_19  545_30  677_51   11    total service:100
+0  473_100    0    total service:100
+0  367_23  140_42  473_35    0    total service:100
+5  162_67  332_23  509_10    5    total service:100
+0  438_81  367_19    0    total service:100
+4  560_100    4    total service:100
+4  469_22  626_15  560_63    4    total service:100
+0  237_10  728_90    0    total service:100
+9  457_17  181_47  371_36    9    total service:100
+4  266_32  206_68    4    total service:100
+2  586_78  721_22    2    total service:100
+4  435_95  216_5    4    total service:100
+4  706_100    4    total service:100
+4  494_17  563_27  178_8  706_48    4    total service:100
+4  703_36  211_29  494_35    4    total service:100
+1   28_100    1    total service:100
+1  286_66   28_34    1    total service:100
+2  261_40  440_60    2    total service:100
+10  219_0  490_82  290_18   10    total service:100
+1  387_89  286_11    1    total service:100
+2  510_60  320_40    2    total service:100
+6  570_17  627_1  504_82    6    total service:100
+0  187_22  438_78    0    total service:100
+2  589_100    2    total service:100
+2  652_14  589_86    2    total service:100
+2  652_100    2    total service:100
+2   44_72  652_28    2    total service:100
+2  348_100    2    total service:100
+2  307_38  533_43  348_19    2    total service:100
+1  474_13  387_87    1    total service:100
+10  496_15  152_85   10    total service:100
+5  637_18  654_24  514_4   75_54    5    total service:100
+8  117_66  115_34    8    total service:100
+10   18_4  496_96   10    total service:100
+11   33_14   53_18  625_68   11    total service:100
+4  696_19  197_29  469_52    4    total service:100
+1  474_100    1    total service:100
+1  403_59  474_41    1    total service:100
+5  430_61  467_1  647_38    5    total service:100
+10   26_65  678_35   10    total service:100
+4  523_64  266_36    4    total service:100
+8  634_6  335_94    8    total service:100
+4  435_38  342_62    4    total service:100
+2   81_100    2    total service:100
+2  261_22   81_78    2    total service:100
+2  277_100    2    total service:100
+2  586_23  277_77    2    total service:100
+4  201_10  437_34  360_10  523_46    4    total service:100
+5   20_96  630_4    5    total service:100
+8  449_22  692_78    8    total service:100
+5  737_100    5    total service:100
+5  338_80  737_20    5    total service:100
+2  397_17  510_83    2    total service:100
+11  526_100   11    total service:100
+11  714_9  526_91   11    total service:100
+2  397_44  586_56    2    total service:100
+2  640_56  261_44    2    total service:100
+1  227_37  403_63    1    total service:100
+7  632_18  373_44  711_38    7    total service:100
+11  730_100   11    total service:100
+11  370_26  730_74   11    total service:100
+1   14_100    1    total service:100
+1  600_34   14_66    1    total service:100
+10  262_78   26_22   10    total service:100
+5  515_17  338_83    5    total service:100
+8  620_100    8    total service:100
+8  384_58  620_42    8    total service:100
+2  248_100    2    total service:100
+2  365_31  248_69    2    total service:100
+10  534_49   18_51   10    total service:100
+2  365_100    2    total service:100
+2  683_30  394_28  365_42    2    total service:100
+6  416_100    6    total service:100
+6  714_17  370_18  415_46  416_19    6    total service:100
+8  166_74  374_13  154_2  117_11    8    total service:100
+8  593_29  449_71    8    total service:100
+9  645_100    9    total service:100
+9  212_45  645_55    9    total service:100
+2  307_100    2    total service:100
+2  323_90  307_10    2    total service:100
+8  680_40  634_60    8    total service:100
+2  596_91  397_9    2    total service:100
+2  574_100    2    total service:100
+2  640_12  646_18  299_41  574_29    2    total service:100
+10  582_37  490_63   10    total service:100
+6  608_17  313_51  264_32    6    total service:100
+0   34_1  350_68  237_31    0    total service:100
+9  116_36   92_64    9    total service:100
+2   44_73  454_19  596_8    2    total service:100
+10   76_38  139_62   10    total service:100
+9  181_100    9    total service:100
+9  453_38  278_46  522_9  181_7    9    total service:100
+4  238_47  435_53    4    total service:100
+8  210_100    8    total service:100
+8  746_66  210_34    8    total service:100
+11  462_98  707_2   11    total service:100
+8  599_100    8    total service:100
+8  263_37  746_46  599_17    8    total service:100
+4  106_100    4    total service:100
+4  581_3  693_19  572_6  106_72    4    total service:100
+8  666_59  553_41    8    total service:100
+9  750_100    9    total service:100
+9   41_15  352_54  750_31    9    total service:100
+0  194_84  333_16    0    total service:100
+9  116_8  254_33  508_49  633_10    9    total service:100
+6  608_100    6    total service:100
+6  217_70  608_30    6    total service:100
+1  227_34   53_66    1    total service:100
+0   91_18  187_82    0    total service:100
+2   35_32  204_68    2    total service:100
+8  419_100    8    total service:100
+8  384_17  222_71  419_12    8    total service:100
+0   91_42  350_58    0    total service:100
+11  400_16  462_84   11    total service:100
+11  271_63  623_37   11    total service:100
+8  166_100    8    total service:100
+8  263_66  151_15  166_19    8    total service:100
+1  415_71  227_29    1    total service:100
+4  439_53  238_47    4    total service:100
+9  761_69  212_31    9    total service:100
+2  637_100    2    total service:100
+2   20_55  637_45    2    total service:100
+4  755_67  649_33    4    total service:100
+0  569_5   91_95    0    total service:100
+4  297_100    4    total service:100
+4  133_93  297_7    4    total service:100
+9  761_27  124_16  399_57    9    total service:100
+0  199_100    0    total service:100
+0  464_88  199_12    0    total service:100
+4  437_100    4    total service:100
+4  722_29  244_19  437_52    4    total service:100
+8  593_72  486_12  680_16    8    total service:100
+11  324_22  400_78   11    total service:100
+8  289_22  593_78    8    total service:100
+8  666_100    8    total service:100
+8  705_42  431_42  666_16    8    total service:100
+8  548_37  549_63    8    total service:100
+10  534_100   10    total service:100
+10   45_92  534_8   10    total service:100
+4   46_15  272_3   71_82  211_0    4    total service:100
+10  445_100   10    total service:100
+10  413_50  445_50   10    total service:100
+10  579_100   10    total service:100
+10  597_84  579_16   10    total service:100
+10  128_4  378_10  413_86   10    total service:100
+10  582_100   10    total service:100
+10  174_48  582_52   10    total service:100
+2  640_100    2    total service:100
+2  323_10   20_32  570_5  537_23  640_30    2    total service:100
+8  431_56  169_12   49_32    8    total service:100
+10  433_15  262_85   10    total service:100
+0  189_7  740_93    0    total service:100
+2  699_71  323_29    2    total service:100
+11  143_55  676_45   11    total service:100
+0  280_26  735_74    0    total service:100
+7  484_100    7    total service:100
+7   76_6  484_94    7    total service:100
+11  271_27  340_73   11    total service:100
+8  339_100    8    total service:100
+8  283_89  339_11    8    total service:100
+10  610_12   45_39  174_49   10    total service:100
+10  226_100   10    total service:100
+10  195_16  226_84   10    total service:100
+10   76_100   10    total service:100
+10  327_53   76_47   10    total service:100
+4  439_100    4    total service:100
+4  470_27  455_57  439_16    4    total service:100
+11  143_100   11    total service:100
+11  380_82  143_18   11    total service:100
+0  176_38  569_62    0    total service:100
+8  689_100    8    total service:100
+8  222_61  689_39    8    total service:100
+2  454_100    2    total service:100
+2  125_24  454_76    2    total service:100
+4  587_10  755_90    4    total service:100
+0  123_43  189_57    0    total service:100
+1  354_75  600_25    1    total service:100
+11  301_55  415_45   11    total service:100
+0  280_53  615_6  464_41    0    total service:100
+9   41_100    9    total service:100
+9  594_40   41_60    9    total service:100
+11  618_40  271_60   11    total service:100
+0  123_100    0    total service:100
+0  434_10  104_46  123_44    0    total service:100
+10  592_57  597_43   10    total service:100
+2   35_100    2    total service:100
+2  701_88   35_12    2    total service:100
+10  433_100   10    total service:100
+10  229_24  433_76   10    total service:100
+0  697_38  344_62    0    total service:100
+10   62_40  745_60   10    total service:100
+8  629_4  337_17  434_79    8    total service:100
+4  747_100    4    total service:100
+4  197_63  747_37    4    total service:100
+8  621_100    8    total service:100
+8  222_58   12_39  621_3    8    total service:100
+2   29_29  683_71    2    total service:100
+11  324_59  230_34  132_7   11    total service:100
+8  542_85  283_15    8    total service:100
+4  572_100    4    total service:100
+9  329_100    9    total service:100
+9  555_83  329_17    9    total service:100
+0  697_100    0    total service:100
+0  538_45  697_55    0    total service:100
+0  629_100    0    total service:100
+0  566_13  629_87    0    total service:100
+9  124_41   16_59    9    total service:100
+0  420_4  194_96    0    total service:100
+8  548_100    8    total service:100
+8  133_18   66_61  548_21    8    total service:100
+2  423_14  701_86    2    total service:100
+2   29_100    2    total service:100
+2  156_45   29_55    2    total service:100
+8  101_100    8    total service:100
+8  151_12  101_88    8    total service:100
+9  555_46  124_54    9    total service:100
+2  544_88  699_12    2    total service:100
+7  267_20  373_80    7    total service:100
+9  648_29  555_71    9    total service:100
+2  362_50  203_50    2    total service:100
+9  594_100    9    total service:100
+9  122_46  326_14  594_40    9    total service:100
+8  151_100    8    total service:100
+8  138_52  151_48    8    total service:100
+10  543_7   38_59  150_8   62_26   10    total service:100
+10  610_100   10    total service:100
+10  609_100  610_0   10    total service:100
+8  289_22   64_78    8    total service:100
+11  165_24  197_27  572_49   11    total service:100
+8  118_49  542_51    8    total service:100
+8  463_64   12_36    8    total service:100
+8  669_100    8    total service:100
+8  673_28  604_21  669_51    8    total service:100
+8   46_100    8    total service:100
+8  722_40   46_60    8    total service:100
+10  592_4  327_96   10    total service:100
+9  738_43  483_57    9    total service:100
+8  624_39  133_42  722_19    8    total service:100
+10  234_79  609_21   10    total service:100
+6  354_30  301_70    6    total service:100
+10  481_1  592_99   10    total service:100
+1  282_100    1    total service:100
+1  518_71  282_29    1    total service:100
+8  134_4  289_96    8    total service:100
+2  648_81  580_19    2    total service:100
+10  258_95  195_5   10    total service:100
+8  566_11   55_89    8    total service:100
+2  125_100    2    total service:100
+2  432_6  508_75  125_19    2    total service:100
+8  708_18  571_82    8    total service:100
+8  118_39  656_61    8    total service:100
+10  103_51  134_49   10    total service:100
+8  169_5   97_95  103_0    8    total service:100
+11  476_26  380_74   11    total service:100
+9  122_21  426_79    9    total service:100
+11  252_20  217_56  476_24   11    total service:100
+9  648_41  508_59    9    total service:100
+2  102_8  156_92    2    total service:100
+8  118_1  585_8  475_54  708_37    8    total service:100
+9  738_84  648_16    9    total service:100
+10   39_26  378_74   10    total service:100
+7  231_77  727_23    7    total service:100
+7  322_5  417_64  113_31    7    total service:100
+8  695_39  463_61    8    total service:100
+8  169_100    8    total service:100
+8  234_80  169_20    8    total service:100
+10  150_93  234_7   10    total service:100
+11  618_100   11    total service:100
+11  191_86  618_14   11    total service:100
+2  410_100    2    total service:100
+2  584_34  410_66    2    total service:100
+1  391_62  518_38    1    total service:100
+10  487_51  229_49   10    total service:100
+11  466_100   11    total service:100
+11  719_59  466_41   11    total service:100
+7  267_100    7    total service:100
+7  231_73  267_27    7    total service:100
+2  515_3  544_97    2    total service:100
+8  180_100    8    total service:100
+8  716_36  180_64    8    total service:100
+1  391_64  690_16  354_20    1    total service:100
+10   39_100   10    total service:100
+10  150_29   39_71   10    total service:100
+8  631_100    8    total service:100
+8  588_37  631_63    8    total service:100
+10  192_2   98_31  429_37  487_30   10    total service:100
+2  423_92  584_8    2    total service:100
+8  695_100    8    total service:100
+8   43_30  398_25  695_45    8    total service:100
+9  122_100    9    total service:100
+9  738_53  383_20  122_27    9    total service:100
+11  314_55  191_45   11    total service:100
+10  459_34  481_66   10    total service:100
+6  252_100    6    total service:100
+6  249_69  252_31    6    total service:100
+7  322_14  137_37  231_49    7    total service:100
+11  718_100   11    total service:100
+11  497_48  718_52   11    total service:100
+8  624_100    8    total service:100
+8  604_62  624_38    8    total service:100
+2   85_33  423_67    2    total service:100
+2  359_25  362_75    2    total service:100
+2  515_100    2    total service:100
+2  359_18  467_8  515_74    2    total service:100
+11  165_100   11    total service:100
+11  556_28  165_72   11    total service:100
+10  532_2  459_98   10    total service:100
+10  322_13  521_87   10    total service:100
+11  379_100   11    total service:100
+11  567_3  379_97   11    total service:100
+10  207_17  183_8  192_75   10    total service:100
+10  315_17  258_83   10    total service:100
+11  145_8  556_92   11    total service:100
+2  102_100    2    total service:100
+2  535_69  102_31    2    total service:100
+10  684_45  150_55   10    total service:100
+6  573_12  249_88    6    total service:100
+11  412_17  314_83   11    total service:100
+10  315_100   10    total service:100
+10  519_52  315_48   10    total service:100
+9  522_100    9    total service:100
+9  214_80  522_20    9    total service:100
+11  567_92  497_8   11    total service:100
+11  256_72  412_28   11    total service:100
+2   85_54  681_32  535_14    2    total service:100
+7  322_100    7    total service:100
+7  136_32  322_68    7    total service:100
+10   70_2  532_98   10    total service:100
+10   68_2  519_98   10    total service:100
+11  573_100   11    total service:100
+11  376_66  734_17  573_17   11    total service:100
+9  681_100    9    total service:100
+9   50_47  681_53    9    total service:100
+9  717_26   50_74    9    total service:100
+9  616_92  364_8    9    total service:100
+10  146_100   10    total service:100
+10  246_43  146_57   10    total service:100
+1  107_100    1    total service:100
+1  158_92  107_8    1    total service:100
+1  613_48  158_31  690_21    1    total service:100
+11  230_100   11    total service:100
+11  173_55  230_45   11    total service:100
+11  691_99  567_1   11    total service:100
+9  493_100    9    total service:100
+9  603_6  493_94    9    total service:100
+11  145_100   11    total service:100
+11  285_71  145_29   11    total service:100
+9  215_35  214_65    9    total service:100
+2  467_41  717_59    2    total service:100
+1  386_7  613_93    1    total service:100
+10   70_100   10    total service:100
+10  603_24   70_76   10    total service:100
+2   15_45  292_14  467_41    2    total service:100
+9  312_62  616_38    9    total service:100
+9  383_100    9    total service:100
+9  292_54  383_46    9    total service:100
+11  275_35   13_65   11    total service:100
+9   87_27  215_73    9    total service:100
+1  386_4  176_96    1    total service:100
+10  175_44   86_7  492_49   10    total service:100
+10  639_63  183_37   10    total service:100
+10  245_100   10    total service:100
+10  489_68  245_32   10    total service:100
+1  670_55  386_45    1    total service:100
+9  136_98   87_2    9    total service:100
+10  296_28   68_72   10    total service:100
+7  296_46  489_13  603_5  136_36    7    total service:100
+9  110_100    9    total service:100
+9  312_55  110_45    9    total service:100
+10  296_34  375_53  246_13   10    total service:100
+9  141_59  312_41    9    total service:100
+10   74_22  175_78   10    total service:100
+9  141_100    9    total service:100
+9  499_100  141_0    9    total service:100
+9  162_27  617_27  292_46    9    total service:100
+10  615_5   74_95   10    total service:100
+10  233_88  639_12   10    total service:100
+10   19_100   10    total service:100
+10  233_2  644_31   19_67   10    total service:100
+1  670_100    1    total service:100
+1  741_14  351_77  670_9    1    total service:100
+10  684_100   10    total service:100
+1  198_73  538_27    1    total service:100
+9  507_72  144_28    9    total service:100
+1  153_42  285_58    1    total service:100
+9   88_58  478_42    9    total service:100
+9  499_18  351_27  749_38   88_3  259_14    9    total service:100
+1  162_49  507_14  524_37    1    total service:100
+1  221_58  420_42    1    total service:100
+1  615_33  684_17  566_50    1    total service:100
+1  198_36  257_25  221_39    1    total service:100
+9  269_100    9    total service:100
+9   78_32  505_37  269_31    9    total service:100
+1  259_74  507_26    1    total service:100
+9   78_24  527_72  321_4    9    total service:100
+1  167_9  153_91    1    total service:100
+1  377_1  615_99    1    total service:100
+1  602_32  587_68    1    total service:100
+6  108_23  376_77    6    total service:100
+9  527_100    9    total service:100
+1  470_100    1    total service:100
+1  759_39  470_61    1    total service:100
+1  485_98   77_2    1    total service:100
+1  257_4  259_96    1    total service:100
+1  185_5  602_95    1    total service:100
+6  256_55  108_45    6    total service:100
+6  411_98  256_2    6    total service:100
+1  377_25  456_75    1    total service:100
+1  644_94  377_6    1    total service:100
+1  257_40  527_0  375_47  644_13    1    total service:100
+1  710_2  257_98    1    total service:100
+6  334_1  564_45  411_54    6    total service:100
+1  495_97  185_3    1    total service:100
+1  710_100    1    total service:100
+1  604_38  710_62    1    total service:100
+1  149_100    1    total service:100
+1  120_34  149_66    1    total service:100
+1  168_41  167_59    1    total service:100
+1  691_12   90_27  668_61    1    total service:100
+1  164_38  120_62    1    total service:100
+1  168_100    1    total service:100
+1  250_95  168_5    1    total service:100
+1  759_100    1    total service:100
+1   60_64  759_36    1    total service:100
+1  702_21  112_23  552_31  604_25    1    total service:100
+1  131_23   60_77    1    total service:100
+6  275_100    6    total service:100
+6  334_72  275_28    6    total service:100
+1  164_100    1    total service:100
+1  495_50  164_50    1    total service:100
+1   80_84  495_16    1    total service:100
+1  300_49  485_51    1    total service:100
+1  441_99  691_1    1    total service:100
+6  719_33  733_21  121_3  334_43    6    total service:100
+6  401_98  719_2    6    total service:100
+6  173_85  401_15    6    total service:100
+6   80_6  250_10  441_35  173_49    6    total service:100
+6  293_36   80_64    6    total service:100
+6  293_100    6    total service:100
+6  302_50  293_50    6    total service:100
+6  729_1   67_99    6    total service:100
+6  657_94  729_6    6    total service:100
+6  302_100    6    total service:100
+6  468_98  302_2    6    total service:100
+6  131_6  657_71  341_5  468_18    6    total service:100
+7  588_96  138_4    7    total service:100
+6  131_100    6    total service:100
+6  251_51  303_1  131_48    6    total service:100
+6  382_75  300_25    6    total service:100
+6  303_33  382_67    6    total service:100
+7  498_38  588_62    7    total service:100
+7  628_12  716_88    7    total service:100
+7  551_80  628_20    7    total service:100
+7  551_27  498_73    7    total service:100
+6   48_95  501_5    6    total service:100
+7  760_1  546_7  551_92    7    total service:100
+6  688_59  119_15   48_26    6    total service:100
+6  369_3  460_46  303_51    6    total service:100
+6  119_21  112_79    6    total service:100
+6  369_100    6    total service:100
+6  446_68  369_32    6    total service:100
+7  725_54  585_46    7    total service:100
+6  224_40  446_60    6    total service:100
+6  503_52  224_48    6    total service:100
+7  398_100    7    total service:100
+7  306_30  398_70    7    total service:100
+6  119_100    6    total service:100
+6  491_66  119_34    6    total service:100
+6  503_100    6    total service:100
+6  491_5  345_24  161_32  503_39    6    total service:100
+7  725_100    7    total service:100
+7  306_72  725_28    7    total service:100
+7  388_62  306_38    7    total service:100
+7  109_30  536_58  388_12    7    total service:100
+7  268_12  436_61  577_27    7    total service:100
+7  760_100    7    total service:100
+7  655_17  760_83    7    total service:100
+7  655_100    7    total service:100
+7  268_24  539_17  655_59    7    total service:100
+7  274_100    7    total service:100
+7  422_9  274_91    7    total service:100
+6  447_86   63_1  536_13    6    total service:100
+7  422_100    7    total service:100
+7   36_22  406_47  422_31    7    total service:100
+7   63_10  268_90    7    total service:100
+7   63_100    7    total service:100
+7  170_43  345_33  418_2  147_13   63_9    7    total service:100
+7   36_100    7    total service:100
+7  135_59   36_41    7    total service:100
+7  135_100    7    total service:100
+7  213_74  135_26    7    total service:100
+7   17_27  170_10  213_63    7    total service:100
+7  170_82  291_18    7    total service:100
+7  170_34    7    total service:34

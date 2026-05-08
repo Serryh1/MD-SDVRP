@@ -1,0 +1,43 @@
+compute rounds : 5
+
+
+
+The minimum cost route is : 185641.9381173146
+The Route is: 
+depot is : 3   22_20 34_60 46_20 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   46_40 47_60 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   35_70 47_30 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   23_80 35_20 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   11_90 23_10 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   10_60 9_40 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   9_50 21_50 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   21_40 33_60 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   33_30 45_70 depot_3 ( X 1) the tot demand is : 100
+depot is : 2   28_60 40_40 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   5_80 6_20 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   4_60 15_40 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   15_50 27_50 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   27_40 39_60 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   39_30 51_70 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   38_20 50_60 51_20 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   26_60 38_40 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   14_60 13_40 depot_2 ( X 1) the tot demand is : 100
+depot is : 1   29_90 41_10 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   41_80 40_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   6_40 16_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   5_10 17_90 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   32_20 44_60 45_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   19_40 31_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   31_30 43_70 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   30_20 42_60 43_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   18_60 30_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 0   13_50 25_50 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   25_40 37_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   37_30 49_70 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   36_20 48_60 49_20 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   24_60 36_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   12_60 22_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   20_60 32_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   8_60 7_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   7_50 19_50 depot_0 ( X 1) the tot demand is : 100
+The running time is : 0.0029100450 s

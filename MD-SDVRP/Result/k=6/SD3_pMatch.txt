@@ -1,0 +1,37 @@
+partition 4 can not be satify! 
+partition 17 can not be satify! 
+partition 22 can not be satify! 
+partition 23 can not be satify! 
+partition 24 can not be satify! 
+partition 31 can not be satify! 
+partition 32 can not be satify! 
+partition 33 can not be satify! 
+partition 34 can not be satify! 
+partition 35 can not be satify! 
+partition 37 can not be satify! 
+partition 38 can not be satify! 
+partition 40 can not be satify! 
+partition 44 can not be satify! 
+partition 46 can not be satify! 
+partition 48 can not be satify! 
+partition 50 can not be satify! 
+partition 51 can not be satify! 
+compute rounds : 34
+
+
+
+The minimum cost route is : 33400.8247149870
+The Route is: 
+depot is : 5   17_80 18_20 depot_5 ( X 1) the tot demand is : 100
+depot is : 5   9_90 17_10 depot_5 ( X 1) the tot demand is : 100
+depot is : 4   13_10 21_90 depot_4 ( X 1) the tot demand is : 100
+depot is : 4   12_20 19_80 depot_4 ( X 1) the tot demand is : 100
+depot is : 3   11_90 19_10 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   10_60 18_40 depot_3 ( X 1) the tot demand is : 100
+depot is : 2   6_40 14_60 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   6_20 13_80 depot_2 ( X 1) the tot demand is : 100
+depot is : 1   7_80 8_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   7_10 15_90 depot_1 ( X 1) the tot demand is : 100
+depot is : 0   12_40 20_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   8_40 16_60 depot_0 ( X 1) the tot demand is : 100
+The running time is : 0.0079429000 s

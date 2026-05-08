@@ -1,0 +1,50 @@
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+remain_capacity is: 200
+valid solution is : 34245411
+
+
+
+The minimum cost route is : 20828.4271247462
+The Route is: 
+depot is : 5   7_80 depot_5 ( X 1) the tot demand is : 80
+depot is : 4   9_80 depot_4 ( X 1) the tot demand is : 80
+depot is : 3   8_20 depot_3 ( X 1) the tot demand is : 20
+depot is : 2   6_40 10_60 depot_2 ( X 1) the tot demand is : 100
+depot is : 1   7_10 11_90 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   6_20 depot_1 ( X 1) the tot demand is : 20
+depot is : 0   9_10 13_90 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   8_40 12_60 depot_0 ( X 1) the tot demand is : 100
+The running time is : 3599.9997460860 s

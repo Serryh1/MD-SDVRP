@@ -1,0 +1,24 @@
+remain_capacity is: 142
+valid solution is : 455070
+
+
+
+The minimum cost route is : 1164.8481136936
+The Route is: 
+depot is : 3   13_16 66_10 35_23 93_3 22_17 14_12 65_19 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   34_27 91_9 10_5 85_16 51_35 4_8 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   72_6 4_2 54_8 12_16 74_15 38_8 69_25 68_20 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   54_2 23_9 33_21 73_5 depot_3 ( X 1) the tot demand is : 37
+depot is : 2   5_7 60_7 18_8 46_7 89_5 101_10 40_8 103_17 90_26 45_5 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   100_12 95_2 62_28 9_2 92_15 21_12 55_9 98_20 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   76_9 75_25 77_8 25_18 44_5 78_18 59_6 42_10 24_1 depot_2 ( X 1) the tot demand is : 100
+depot is : 2   24_10 43_9 30_16 31_16 56_14 61_18 depot_2 ( X 1) the tot demand is : 83
+depot is : 1   57_18 28_2 9_1 97_27 16_23 29_17 32_9 27_3 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   58_2 28_4 42_21 70_25 26_29 7_19 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   15_19 53_13 79_13 84_26 36_11 37_14 81_3 82_1 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   82_22 6_13 80_14 71_36 83_6 depot_1 ( X 1) the tot demand is : 91
+depot is : 0   11_9 67_9 52_30 39_5 50_27 51_1 49_1 20_2 48_16 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   19_16 47_18 17_20 41_16 89_30 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   102_9 99_11 96_22 88_41 94_1 64_13 19_3 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   86_11 87_7 8_26 63_3 depot_0 ( X 1) the tot demand is : 47
+The running time is : 2344.8048158410 s

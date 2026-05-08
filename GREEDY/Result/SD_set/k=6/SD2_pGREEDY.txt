@@ -1,0 +1,30 @@
+    0   11    7    0
+    0   13    9    0
+    2   10    6    2
+    2   18   14   10    2
+    3   12    8    3
+    3   20   16   12    3
+    1   15   11    1
+    4   17   13    4
+    1   19   15    1
+    4   21   17    4
+    5   18   19    5
+    5   21   20    5
+Minimum cost (without opt2):73932.9709872170
+--------------------
+The run time (without opt-2) is: 0.0002690000 (s) 
+The minimum cost is:73932.9709872170
+The run time is:0.0002690000(s)
+The optimal route and corresponding demands serviced:
+0   11_10    7_90    0    total service:100
+0   13_10    9_90    0    total service:100
+2   10_40    6_60    2    total service:100
+2   18_20   14_60   10_20    2    total service:100
+3   12_40    8_60    3    total service:100
+3   20_20   16_60   12_20    3    total service:100
+1   15_20   11_80    1    total service:100
+4   17_20   13_80    4    total service:100
+1   19_30   15_70    1    total service:100
+4   21_30   17_70    4    total service:100
+5   18_40   19_60    5    total service:100
+5   21_60   20_40    5    total service:100

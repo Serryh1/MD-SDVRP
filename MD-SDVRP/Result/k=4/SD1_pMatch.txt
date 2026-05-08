@@ -1,0 +1,14 @@
+compute rounds : 5
+
+
+
+The minimum cost route is : 20307.1357893653
+The Route is: 
+depot is : 3   6_60 10_40 depot_3 ( X 1) the tot demand is : 100
+depot is : 3   10_20 11_80 depot_3 ( X 1) the tot demand is : 100
+depot is : 2   4_20 depot_2 ( X 1) the tot demand is : 20
+depot is : 2   4_40 8_60 depot_2 ( X 1) the tot demand is : 100
+depot is : 1   9_80 depot_1 ( X 1) the tot demand is : 80
+depot is : 1   5_90 9_10 depot_1 ( X 1) the tot demand is : 100
+depot is : 0   7_90 11_10 depot_0 ( X 1) the tot demand is : 100
+The running time is : 0.0008237620 s

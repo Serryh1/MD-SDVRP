@@ -1,0 +1,581 @@
+tot capacity is : 121000
+need capacity is : 114447
+Minimum cost (without opt2):425443.4501968483
+--------------------
+The run time (without opt-2) is: 19.1312810000 (s) 
+The minimum cost is:425443.4501968483
+The run time is:19.1312810000(s)
+The optimal route and corresponding demands serviced:
+0   89_200    0    total service:200
+9  858_10  627_190    9    total service:200
+0  393_197   89_3    0    total service:200
+12  258_26  517_165  250_9   12    total service:200
+4  662_12 1008_149  762_39    4    total service:200
+2  305_130  679_70    2    total service:200
+7  799_148  769_52    7    total service:200
+2  352_129   39_29  305_42    2    total service:200
+11  204_84  815_116   11    total service:200
+8 1011_152  297_48    8    total service:200
+10  708_173  245_27   10    total service:200
+5  709_73  112_91  442_8  226_28    5    total service:200
+11  628_111  491_85  204_4   11    total service:200
+11  230_119  236_4  992_77   11    total service:200
+6  511_116  705_84    6    total service:200
+10  870_112  596_64  708_24   10    total service:200
+13  290_5  261_195   13    total service:200
+6  840_86  511_114    6    total service:200
+0  649_11  823_166  393_23    0    total service:200
+13  534_50  866_110  504_40   13    total service:200
+7  574_66  142_134    7    total service:200
+3  333_13  444_187    3    total service:200
+6  665_63   30_46  840_91    6    total service:200
+6  592_74  788_62  959_17   42_47    6    total service:200
+1  727_46  186_154    1    total service:200
+9  719_27  377_91  505_82    9    total service:200
+5  654_27  640_87  429_81  973_5    5    total service:200
+7  437_87  731_82  799_31    7    total service:200
+13  528_26  533_86  718_25  290_63   13    total service:200
+8  998_46  555_116  207_25 1011_13    8    total service:200
+8  399_94  703_19  929_87    8    total service:200
+10  462_93  103_107   10    total service:200
+1  275_36 1001_76  385_6  249_82    1    total service:200
+7  499_108  484_13  861_71  574_8    7    total service:200
+3  681_52  996_65  315_49  389_34    3    total service:200
+10  596_101 1004_99   10    total service:200
+9  355_71  951_80  858_49    9    total service:200
+10  921_23  760_67  715_76  596_34   10    total service:200
+8  656_139  399_59  568_2    8    total service:200
+8  886_11  613_189    8    total service:200
+5  917_115  905_85    5    total service:200
+10  848_41  205_159   10    total service:200
+1  619_108  231_21   93_28  275_43    1    total service:200
+1  756_146  727_54    1    total service:200
+9  239_37  513_53  409_110    9    total service:200
+5  392_115  595_17  200_50  442_18    5    total service:200
+13  403_64  235_74  534_62   13    total service:200
+12  928_129  388_13  266_21  258_37   12    total service:200
+2  579_9  839_164   39_27    2    total service:200
+11  667_12  704_82  236_106   11    total service:200
+7  588_45  814_62  765_93    7    total service:200
+0  932_43  121_157    0    total service:200
+0  318_125  752_41  649_34    0    total service:200
+1  612_141  756_59    1    total service:200
+1  971_200    1    total service:200
+1  612_3  642_87  916_82  971_28    1    total service:200
+4  813_75  995_125    4    total service:200
+0  344_200    0    total service:200
+0  463_178  344_22    0    total service:200
+2  717_72  416_19  101_106   29_3    2    total service:200
+2  691_16  190_48  991_136    2    total service:200
+0   25_38  241_162    0    total service:200
+4  417_200    4    total service:200
+4  127_121   83_49  417_30    4    total service:200
+7  120_18  244_59  125_70  334_25  697_1  437_27    7    total service:200
+2  851_5  579_195    2    total service:200
+1  320_5   58_48  720_147    1    total service:200
+7  672_44  770_156    7    total service:200
+4  537_7  753_193    4    total service:200
+2  413_13  624_20  117_167    2    total service:200
+0  752_164  822_18  463_18    0    total service:200
+4  813_30  537_145  111_25    4    total service:200
+3  490_18  333_182    3    total service:200
+9   55_200    9    total service:200
+9  970_66  432_16   71_43   49_66   55_9    9    total service:200
+4  172_11  563_189    4    total service:200
+6  730_77  630_76   30_47    6    total service:200
+9  246_126   84_13  377_61    9    total service:200
+4  127_83  662_117    4    total service:200
+10  903_200   10    total service:200
+10  848_96   51_89  903_15   10    total service:200
+4  706_1  698_199    4    total service:200
+4  706_200    4    total service:200
+4  329_86  127_10  519_103  706_1    4    total service:200
+5  675_165  370_33  429_2    5    total service:200
+7  591_22  750_165  499_13    7    total service:200
+7  804_127 1013_73    7    total service:200
+7  804_32  831_90  263_78    7    total service:200
+5  745_5  732_151  695_44    5    total service:200
+8  331_62  886_138    8    total service:200
+6  959_110  405_5   56_85    6    total service:200
+8  908_98  331_102    8    total service:200
+3  777_39  735_16  490_145    3    total service:200
+6  561_13  661_46  853_141    6    total service:200
+10  421_36  926_111  960_53   10    total service:200
+11  917_107  854_63  628_30   11    total service:200
+12  469_133  266_67   12    total service:200
+11  562_173  878_22  341_5   11    total service:200
+10  606_17  711_43  585_140   10    total service:200
+8  124_152   94_16  555_32    8    total service:200
+1  844_11  237_140  828_49    1    total service:200
+2  636_98  851_102    2    total service:200
+10  926_38  710_43  606_119   10    total service:200
+6  771_160  500_40    6    total service:200
+8  203_14  733_62  908_124    8    total service:200
+1  910_28  778_29  162_39  619_104    1    total service:200
+7  713_10  510_157  771_24  672_9    7    total service:200
+10   61_68  370_30  451_34  402_68   10    total service:200
+11  667_110   45_90   11    total service:200
+0  786_79  932_121    0    total service:200
+5  154_29  595_171    5    total service:200
+1  714_4  807_19  164_134  837_43    1    total service:200
+0  976_169  786_31    0    total service:200
+12  153_72  895_128   12    total service:200
+10  949_163   51_33  154_4   10    total service:200
+4  193_148  111_52    4    total service:200
+10  398_56  915_41  846_24  462_79   10    total service:200
+5  667_43  857_34  915_12  350_25  370_86    5    total service:200
+6  730_100  901_100    6    total service:200
+12  281_171  214_23   38_6   12    total service:200
+1  167_63  237_12  107_125    1    total service:200
+12  439_166  153_34   12    total service:200
+1  603_12  910_188    1    total service:200
+6  772_36  546_21  583_31  524_112    6    total service:200
+1  682_109   58_91    1    total service:200
+7  713_194  465_1  253_5    7    total service:200
+6  845_77  384_123    6    total service:200
+10  332_1  921_199   10    total service:200
+10  220_5  129_91  114_22  614_29  154_53   10    total service:200
+9  573_62  239_138    9    total service:200
+12  512_200   12    total service:200
+12  939_52  217_83   80_8  433_29  512_28   12    total service:200
+3  927_45  299_50  145_105    3    total service:200
+7  913_86  814_114    7    total service:200
+2  962_92  601_18  624_90    2    total service:200
+12  108_33  156_31  397_49  303_87   12    total service:200
+13   88_62  522_40   47_98   13    total service:200
+13  403_5   97_188   88_7   13    total service:200
+11  378_79  346_50  664_71   11    total service:200
+9  556_51  774_105  573_44    9    total service:200
+2  879_104  636_96    2    total service:200
+1 1007_38  167_162    1    total service:200
+8  575_90  957_66  733_44    8    total service:200
+9  212_107  386_93    9    total service:200
+11  260_6  197_172  562_22   11    total service:200
+5  348_133  717_67    5    total service:200
+1  642_54  603_146    1    total service:200
+8  653_8  584_130  668_22  656_40    8    total service:200
+1  257_36  311_82  589_3  882_16  696_63    1    total service:200
+6  406_121  845_79    6    total service:200
+4  172_200    4    total service:200
+4  229_15   96_185  172_0    4    total service:200
+9  785_114  355_86    9    total service:200
+6   79_58  178_122  730_20    6    total service:200
+8  742_41  906_159    8    total service:200
+12  467_146  439_54   12    total service:200
+6  546_78  267_59  602_63    6    total service:200
+0  135_155  976_45    0    total service:200
+8  952_79  523_32  618_89    8    total service:200
+8  977_76  206_124    8    total service:200
+8  221_200    8    total service:200
+8  977_62  401_129  221_9    8    total service:200
+1  164_11  532_189    1    total service:200
+8   68_148  198_11  742_41    8    total service:200
+1  726_149  642_51    1    total service:200
+3  467_7  380_24  175_152  775_17    3    total service:200
+7  591_110  913_90    7    total service:200
+6  550_62  405_138    6    total service:200
+0  900_12  475_188    0    total service:200
+10   36_123  366_6  803_38  926_33   10    total service:200
+7  143_200    7    total service:200
+7   63_82  857_81  455_34  143_3    7    total service:200
+1  426_100  682_100    1    total service:200
+3  529_29  860_119  777_52    3    total service:200
+4  986_56  518_59 1012_85    4    total service:200
+11  391_55  553_145   11    total service:200
+5  737_196  854_4    5    total service:200
+9  460_153  785_47    9    total service:200
+9  432_150  933_50    9    total service:200
+2  988_2  248_72  879_126    2    total service:200
+9  993_31  369_169    9    total service:200
+12  734_130  469_70   12    total service:200
+7  478_128  441_26  561_46    7    total service:200
+7  478_23  450_66  940_59  889_23  591_29    7    total service:200
+6  448_131  997_69    6    total service:200
+4  193_34  700_79  518_87    4    total service:200
+6  448_87  652_83  550_30    6    total service:200
+8   94_79  540_102  824_19    8    total service:200
+0  822_20  900_180    0    total service:200
+10  115_141  332_59   10    total service:200
+10  339_181  298_19   10    total service:200
+11  375_130   59_13  346_57   11    total service:200
+6  761_119  406_81    6    total service:200
+0  795_44  822_156    0    total service:200
+2  347_166  461_12  190_22    2    total service:200
+1  254_165  158_26  947_9    1    total service:200
+12  214_200   12    total service:200
+12   79_49   80_150  214_1   12    total service:200
+6  666_200    6    total service:200
+6  267_5  265_165  666_30    6    total service:200
+1   74_29  307_136   36_14  726_21    1    total service:200
+0  302_73  795_127    0    total service:200
+2  130_22  841_13  457_3  885_7  864_72  634_83    2    total service:200
+9  414_76  607_68  460_56    9    total service:200
+1  724_96  751_104    1    total service:200
+1  292_82 1010_48  164_70    1    total service:200
+11  516_120  334_80   11    total service:200
+9  633_99 1006_45  432_56    9    total service:200
+7  465_21  456_179    7    total service:200
+0  923_50  897_25  302_89  273_36    0    total service:200
+9  196_160  212_40    9    total service:200
+11  115_84  340_65  857_51   11    total service:200
+9  607_44  506_156    9    total service:200
+10  487_20  892_166  339_14   10    total service:200
+5   35_32  745_168    5    total service:200
+6   28_174  946_26    6    total service:200
+1  724_12  477_49   95_115 1007_24    1    total service:200
+2  938_200    2    total service:200
+2  702_6  930_78  962_105  938_11    2    total service:200
+9   66_176   84_24    9    total service:200
+0  570_188  571_4  135_8    0    total service:200
+7  283_96  465_104    7    total service:200
+2  988_7  593_179  129_14    2    total service:200
+9   66_12  362_10  978_149  196_29    9    total service:200
+1  116_93  645_107    1    total service:200
+12  380_8  446_9  956_63  317_120   12    total service:200
+11  551_3   70_20  171_177   11    total service:200
+4  374_61   19_139    4    total service:200
+9  560_4  825_107  472_82  774_7    9    total service:200
+6  912_31  891_169    6    total service:200
+4  326_119  374_81    4    total service:200
+7  356_112  831_88    7    total service:200
+7   67_99 1002_101    7    total service:200
+8  653_26  894_113  806_8  525_24  876_29    8    total service:200
+3  877_98  927_102    3    total service:200
+12  390_25  692_34  492_5  408_136   12    total service:200
+6  474_120  761_80    6    total service:200
+7  880_93  138_36   67_71    7    total service:200
+9  165_200    9    total service:200
+9  486_21  187_174  165_5    9    total service:200
+10  980_51  222_149   10    total service:200
+8  934_120  683_6  523_74    8    total service:200
+12  492_11  533_142  734_47   12    total service:200
+11  242_74  391_126   11    total service:200
+3  449_3  819_197    3    total service:200
+1  881_36  323_61  890_23   95_27   46_53    1    total service:200
+6  968_141  141_59    6    total service:200
+4  501_200    4    total service:200
+4  809_172  501_28    4    total service:200
+2  336_104  988_96    2    total service:200
+2  496_102  865_2   35_73  348_23    2    total service:200
+12  577_4  380_196   12    total service:200
+9   62_69  993_131    9    total service:200
+4  502_31 1003_47  211_116  326_6    4    total service:200
+7  871_176  859_19  356_5    7    total service:200
+4  329_119   44_25  809_12  181_42  985_2    4    total service:200
+10  487_30  277_170   10    total service:200
+10  307_55  686_32  994_23  485_1  479_89   10    total service:200
+9  259_93  327_82  670_25    9    total service:200
+6  967_46  358_92  267_62    6    total service:200
+10  340_110  871_28  424_11  880_41  552_5  487_5   10    total service:200
+2  964_12  461_188    2    total service:200
+8  208_200    8    total service:200
+8  918_175  527_6  452_1  208_18    8    total service:200
+12  435_47  577_153   12    total service:200
+6  328_98  146_68   28_34    6    total service:200
+6  454_151  474_49    6    total service:200
+8  797_71  957_129    8    total service:200
+8  301_99  401_101    8    total service:200
+4  758_64  229_37  140_39  700_60    4    total service:200
+7  899_25  587_136  283_39    7    total service:200
+7  436_152  590_33  516_15    7    total service:200
+6  968_8  608_6   98_179  454_7    6    total service:200
+0  897_200    0    total service:200
+0  902_107  404_89  897_4    0    total service:200
+0  830_63  974_79   25_58    0    total service:200
+8  464_33  944_61  394_89  293_17    8    total service:200
+9  615_150   82_9  849_4  671_31  255_6  472_0    9    total service:200
+1  884_13  757_99  158_88    1    total service:200
+1  589_114  426_9  604_73  306_4    1    total service:200
+2  687_9  792_39  867_152    2    total service:200
+11  590_30  209_111  375_59   11    total service:200
+6  566_200    6    total service:200
+5  147_94  395_63   35_43    5    total service:200
+4  483_200    4    total service:200
+4  758_40  515_5  541_51  881_79  483_25    4    total service:200
+8  301_15  658_185    8    total service:200
+11  197_9  748_3   70_188   11    total service:200
+0  321_200    0    total service:200
+0  902_64  480_93  909_40  321_3    0    total service:200
+5  182_104  367_76  737_20    5    total service:200
+12  308_41  166_67  156_92   12    total service:200
+11  368_35   33_23  242_142   11    total service:200
+2  964_108  234_92    2    total service:200
+12  794_86  608_11  308_103   12    total service:200
+7  476_38  400_53  139_109    7    total service:200
+8  981_58  677_94  198_48    8    total service:200
+7  880_9   75_191    7    total service:200
+12   99_38  449_162   12    total service:200
+12  564_30  893_170   12    total service:200
+12  950_77  981_28  676_13  492_82   12    total service:200
+0  855_192  978_2  767_6    0    total service:200
+2  495_15  296_89  925_31  106_53  964_12    2    total service:200
+10  586_50  980_150   10    total service:200
+12  794_128  643_19  118_53   12    total service:200
+7  227_200    7    total service:200
+7  566_6  251_166  227_28    7    total service:200
+4  948_170  943_30    4    total service:200
+4  542_53   37_140  948_7    4    total service:200
+9  486_69  622_92   62_39    9    total service:200
+10  687_102  218_6  586_92   10    total service:200
+8  357_53  319_43  301_104    8    total service:200
+2  572_28  383_139  336_33    2    total service:200
+12  648_106  877_94   12    total service:200
+8  647_165  540_35    8    total service:200
+9  486_91  571_70  607_39    9    total service:200
+0   40_90  201_110    0    total service:200
+12  681_32   81_48  176_31  157_36  548_53   12    total service:200
+7  338_53  565_69  880_78    7    total service:200
+0  289_66  978_54  571_80    0    total service:200
+8  264_89  797_111    8    total service:200
+12  420_82  648_118   12    total service:200
+11  351_39  223_43  508_89  368_29   11    total service:200
+12  850_52   99_148   12    total service:200
+9  999_86  739_25  327_89    9    total service:200
+12  420_133  179_23  850_44   12    total service:200
+7  790_38  899_162    7    total service:200
+0  812_200    0    total service:200
+0 1005_94  766_87  812_19    0    total service:200
+5  182_47  430_111  128_42    5    total service:200
+7  790_94  180_3  209_103    7    total service:200
+12   34_132  594_23  567_31  794_14   12    total service:200
+11  721_152  197_48   11    total service:200
+7  312_91  338_109    7    total service:200
+12  210_44  529_156   12    total service:200
+8  683_200    8    total service:200
+8  829_198  683_2    8    total service:200
+0  134_9  754_190 1005_1    0    total service:200
+9  189_100 1006_100    9    total service:200
+9  739_136  438_64    9    total service:200
+8  800_83  981_117    8    total service:200
+4  155_158   44_42    4    total service:200
+0  514_9  322_191    0    total service:200
+9  314_200    9    total service:200
+9  699_172  314_28    9    total service:200
+4  689_200    4    total service:200
+4  816_105  155_49  930_24  689_22    4    total service:200
+7  821_82  400_112  312_6    7    total service:200
+2  818_70  572_130    2    total service:200
+0  693_97  784_103    0    total service:200
+11  233_73  123_90  738_37   11    total service:200
+4  104_62  808_65   37_73    4    total service:200
+12  712_111  194_89   12    total service:200
+7  450_55  820_32  912_113    7    total service:200
+9  288_18  783_69  144_110  739_3    9    total service:200
+4  796_8  678_23  218_106 1003_63    4    total service:200
+11  147_71  610_18  430_111   11    total service:200
+0  693_31  256_35  431_84  480_50    0    total service:200
+12  443_40  564_160   12    total service:200
+12  210_61  701_12  764_127   12    total service:200
+9  132_43  173_13   41_43  289_101    9    total service:200
+12  936_87  435_113   12    total service:200
+4  816_44  818_156    4    total service:200
+12  185_152  936_48   12    total service:200
+7  180_139  251_61    7    total service:200
+8  276_152  357_48    8    total service:200
+2  218_4  104_130  816_66    2    total service:200
+4  503_38  740_162    4    total service:200
+9  359_24  232_131  699_45    9    total service:200
+12   69_129   91_71   12    total service:200
+11  287_52  617_73  721_75   11    total service:200
+12  343_11  443_172   79_17   12    total service:200
+12   81_118  651_82   12    total service:200
+12  161_90  179_110   12    total service:200
+9  192_18  849_69  189_113    9    total service:200
+0  238_37  134_163    0    total service:200
+4   50_131  793_69    4    total service:200
+12  152_158   69_42   12    total service:200
+8  310_176  647_24    8    total service:200
+0  411_91  723_16  862_10  256_83    0    total service:200
+8  637_55  407_145    8    total service:200
+8 1000_163  811_37    8    total service:200
+12  800_110  707_80  403_10   12    total service:200
+8  337_106  271_68 1000_26    8    total service:200
+12  984_22  219_88  152_71   81_19   12    total service:200
+11  278_144  223_56   11    total service:200
+8  276_23  100_167  829_10    8    total service:200
+10  471_28  863_45  994_127   10    total service:200
+12  701_50  582_36  161_114   12    total service:200
+8  310_17  151_26  833_139  394_18    8    total service:200
+8  149_53  354_67  637_80    8    total service:200
+12  567_75  122_125   12    total service:200
+7  638_116  821_84    7    total service:200
+0  440_49  292_54  238_97    0    total service:200
+12  379_200   12    total service:200
+12  694_177  379_23   12    total service:200
+4  690_21  503_179    4    total service:200
+9  538_80  783_120    9    total service:200
+11  955_41  148_159   11    total service:200
+8  304_49  149_151    8    total service:200
+8  806_69   31_131    8    total service:200
+0   73_174   48_26    0    total service:200
+9  538_110  280_30  132_60    9    total service:200
+8  304_72  652_67  343_6  806_55    8    total service:200
+0  364_22  488_120   40_58    0    total service:200
+9  247_35  802_165    9    total service:200
+8  922_41  202_159    8    total service:200
+12  694_36   60_125   24_12  712_27   12    total service:200
+8  657_46  325_89  264_65    8    total service:200
+11  520_136  180_64   11    total service:200
+10  363_23  471_177   10    total service:200
+12  126_25  493_175   12    total service:200
+4   22_6  690_43  243_56  884_52  218_43    4    total service:200
+12  953_52  984_69  701_79   12    total service:200
+8  473_142  452_58    8    total service:200
+7  937_16  966_112  820_72    7    total service:200
+12  984_13  954_2  459_185  800_0   12    total service:200
+12  224_139  685_32  567_29   12    total service:200
+7  937_69   17_26  328_105    7    total service:200
+12  801_89  353_37  185_74   12    total service:200
+0  440_53  599_6   73_8  415_133    0    total service:200
+11  520_70  979_39  657_45  278_46   11    total service:200
+8  979_58  922_142    8    total service:200
+8  151_61  578_60   77_79    8    total service:200
+8  798_66  271_134    8    total service:200
+8  868_40  554_112  798_48    8    total service:200
+0  514_33  830_167    0    total service:200
+12  468_43  569_143  126_14   12    total service:200
+9   21_9  247_191    9    total service:200
+8  304_90  979_10  316_100    8    total service:200
+4  270_103   50_97    4    total service:200
+7  358_0  252_3   17_197    7    total service:200
+0  990_84  440_116    0    total service:200
+10  989_80  116_120   10    total service:200
+7  975_58  963_1  776_55  137_17  638_69    7    total service:200
+9  842_30  847_104  835_39   21_27    9    total service:200
+11  316_81  983_35  489_15  381_69   11    total service:200
+0  836_200    0    total service:200
+0  419_91  945_81  836_28    0    total service:200
+2  925_14  285_61  335_6  885_119    2    total service:200
+5  150_10  168_84  610_106    5    total service:200
+12  685_118  688_82   12    total service:200
+11  539_112  869_40  955_48   11    total service:200
+8  868_58  747_53  240_5  629_14  810_11   26_21   57_38    8    total service:200
+8  100_36  434_16  635_39  843_10  617_16  473_83    8    total service:200
+9  559_11  280_189    9    total service:200
+9  192_17  746_92  883_91    9    total service:200
+10  888_7  536_20  990_31  965_63  482_53  989_26   10    total service:200
+8  547_19  635_44  641_81  983_56    8    total service:200
+0  723_102  488_98    0    total service:200
+7  931_40  410_160    7    total service:200
+0  160_41  514_159    0    total service:200
+7  349_2  184_198    7    total service:200
+9   85_5  216_149  832_18  192_28    9    total service:200
+7  349_200  363_0    7    total service:200
+5  225_81  109_119    5    total service:200
+12  685_14  852_46  744_22  133_32  468_86   12    total service:200
+7  776_45  931_155    7    total service:200
+5   78_200    5    total service:200
+5  233_141  342_25  539_22   78_12    5    total service:200
+4   22_159  541_41    4    total service:200
+12  282_66  616_133   60_1   12    total service:200
+8  872_200    8    total service:200
+8  509_58  268_129  872_13    8    total service:200
+4   22_33  684_1  875_1   32_106  826_9  270_50    4    total service:200
+5  225_36  781_93  920_11  150_60    5    total service:200
+7 1009_27  659_71  729_76  349_26    7    total service:200
+9  911_97  359_103    9    total service:200
+12  544_50  269_41  914_8  620_101   12    total service:200
+12  177_171  353_29   12    total service:200
+10  659_108  536_92   10    total service:200
+10  309_4  945_6  600_86  644_98  659_6   10    total service:200
+7  919_48  856_152    7    total service:200
+12   27_196  110_4  177_0   12    total service:200
+8  284_29  423_121  650_15  578_35    8    total service:200
+12  954_24   72_49   65_8  597_119   12    total service:200
+0  559_200    0    total service:200
+0  723_100  759_33  345_58  559_9    0    total service:200
+12  982_194  616_6   12    total service:200
+7  623_103  776_97    7    total service:200
+12  445_139  581_28  982_33   12    total service:200
+12  294_15  371_185   12    total service:200
+5  635_21  376_129  342_50    5    total service:200
+4  875_30  199_170    4    total service:200
+2  743_96  896_104    2    total service:200
+12   65_109  294_91   12    total service:200
+8   26_107  113_93    8    total service:200
+8  780_32  509_168    8    total service:200
+12  958_75  110_125   12    total service:200
+12  581_146  557_3  958_51   12    total service:200
+12  286_72  497_128   12    total service:200
+8  521_61  611_119   26_20    8    total service:200
+8  789_110  827_85  722_5    8    total service:200
+12  834_34  188_39  787_127   12    total service:200
+12  744_142  898_29  530_29   12    total service:200
+0  969_125  345_75    0    total service:200
+4  875_46  160_4  604_84  782_28  805_38    4    total service:200
+12  646_93  286_107   12    total service:200
+8  827_90  131_27   53_19  423_64    8    total service:200
+8  481_15  330_105  780_80    8    total service:200
+0  873_33  623_92  919_45  600_30    0    total service:200
+2  285_74  743_126    2    total service:200
+12  215_120   65_80   12    total service:200
+12  470_121  215_79   12    total service:200
+12  609_45  387_121  274_34   12    total service:200
+12  834_21  557_134  470_45   12    total service:200
+2  920_105  285_95    2    total service:200
+2  755_131  295_35  920_34    2    total service:200
+8  291_5  447_31  313_164    8    total service:200
+12  914_81  163_73  646_46   12    total service:200
+12  170_23  526_48  817_92  914_37   12    total service:200
+12  791_152  252_48   12    total service:200
+12  507_4  262_181  834_15   12    total service:200
+0  911_113  105_21   76_66    0    total service:200
+0  919_62  969_80  887_58    0    total service:200
+12  507_30  725_88   20_82   12    total service:200
+2  295_7  183_14  631_16  300_137  942_26    2    total service:200
+12  549_9  279_72  621_69  898_50   12    total service:200
+0  887_21  605_25  558_36  160_118    0    total service:200
+12  728_24  609_162  935_14   12    total service:200
+12  507_11  453_189   12    total service:200
+2  300_70  330_10   87_19  635_101    2    total service:200
+12  526_108  507_92   12    total service:200
+2  372_21   92_177  422_2    2    total service:200
+8  382_79  521_121    8    total service:200
+8  174_19  674_64  425_13  131_104    8    total service:200
+12  458_74  669_126   12    total service:200
+12  663_43  791_25  365_132   12    total service:200
+8  300_21  427_19  716_23  382_137    8    total service:200
+12  779_87  279_113   12    total service:200
+8  736_149  447_51    8    total service:200
+12  728_200   12    total service:200
+12  961_122  535_78  728_0   12    total service:200
+12  545_69   64_110  663_21   12    total service:200
+12  458_52  213_50  119_58  526_40   12    total service:200
+2  372_200    2    total service:200
+2   52_192  372_8    2    total service:200
+12  428_71  191_129   12    total service:200
+8  741_19  576_128  736_53    8    total service:200
+12  779_15  418_40  598_145   12    total service:200
+12  763_35   54_165   12    total service:200
+12  428_140   64_60   12    total service:200
+12  361_14  639_178  428_8   12    total service:200
+8  749_112  924_6  531_82    8    total service:200
+12  498_89  768_4  535_107   12    total service:200
+2   14_134  673_53   52_13    2    total service:200
+8  655_62  427_138    8    total service:200
+12  768_45  195_112  763_43   12    total service:200
+12  361_30   18_134  418_36   12    total service:200
+8   14_3  655_7  907_69  373_72  741_49    8    total service:200
+8  324_136  741_64    8    total service:200
+8  543_88  674_112    8    total service:200
+8  941_128  543_72    8    total service:200
+8   16_137  924_63    8    total service:200
+8  941_27  680_166   16_7    8    total service:200
+10  605_18  136_64  228_89  987_29   10    total service:200
+10  838_44  605_156   10    total service:200
+10  412_36  904_99  838_65   10    total service:200
+10  412_24  773_16  494_123  396_26  105_11   10    total service:200
+10  632_10  272_19   15_132  169_20  412_19   10    total service:200
+10  874_112  361_88   10    total service:200
+10   90_33  169_54  874_113   10    total service:200
+10  842_19  102_13   90_168   10    total service:200
+10  466_8  102_192   10    total service:200
+10   85_44  466_156   10    total service:200
+10   23_69   85_131   10    total service:200
+10   23_78  580_33  660_63  195_26   10    total service:200
+8  680_36  324_80  213_84    8    total service:200
+10  972_76   43_124   10    total service:200
+8  360_19  972_32   86_97  213_52    8    total service:200
+8  625_58  626_73  360_69    8    total service:200
+8  159_148  660_37  625_15    8    total service:200
+8  159_47    8    total service:47

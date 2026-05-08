@@ -1,0 +1,116 @@
+remain_capacity is: 0
+valid solution is : 1
+
+
+
+The minimum cost route is : 1443450.2356796274
+The Route is: 
+depot is : 1   126_40 138_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   102_20 114_60 126_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   90_60 102_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   124_40 136_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   100_20 112_60 124_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   88_60 100_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   122_40 134_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   98_20 110_60 122_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   86_60 98_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   133_10 145_90 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   121_20 133_80 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   109_30 121_70 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   97_40 109_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   85_50 97_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   73_60 85_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   61_70 73_30 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   49_80 61_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   37_90 49_10 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   66_40 78_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   42_20 54_60 66_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   30_60 42_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   125_10 137_90 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   113_20 125_80 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   101_30 113_70 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   89_40 101_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   77_50 89_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   65_60 77_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   53_70 65_30 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   41_80 53_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   29_90 41_10 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   64_40 76_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   40_20 52_60 64_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   28_60 40_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   123_10 135_90 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   111_20 123_80 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   99_30 111_70 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   87_40 99_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   75_50 87_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   63_60 75_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   51_70 63_30 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   39_80 51_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   27_90 39_10 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   62_40 74_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   38_20 50_60 62_20 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   26_60 38_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   17_40 18_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   16_50 17_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   15_90 16_10 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   25_50 24_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   14_60 25_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   5_50 6_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   4_60 5_40 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   3_50 13_50 depot_1 ( X 1) the tot demand is : 100
+depot is : 1   3_40 2_60 depot_1 ( X 1) the tot demand is : 100
+depot is : 0   132_40 144_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   108_20 132_20 120_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   96_60 108_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   130_40 142_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   106_20 130_20 118_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   94_60 106_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   128_40 140_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   104_20 128_20 116_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   92_60 104_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   72_40 84_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   48_20 72_20 60_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   36_60 48_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   131_10 143_90 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   119_20 131_80 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   107_30 119_70 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   95_40 107_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   83_50 95_50 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   71_60 83_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   59_70 71_30 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   47_80 59_20 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   35_90 47_10 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   70_40 82_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   46_20 70_20 58_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   34_60 46_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   129_10 141_90 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   117_20 129_80 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   105_30 117_70 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   93_40 105_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   81_50 93_50 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   69_60 81_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   57_70 69_30 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   45_80 57_20 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   33_90 45_10 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   68_40 80_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   44_20 68_20 56_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   32_60 44_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   127_10 139_90 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   115_20 127_80 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   103_30 115_70 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   91_40 103_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   79_50 91_50 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   67_60 79_40 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   55_70 67_30 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   43_80 55_20 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   31_90 43_10 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   21_40 22_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   21_50 20_50 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   19_90 20_10 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   24_10 23_90 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   10_10 11_90 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   9_50 10_50 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   9_40 8_60 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   6_10 7_90 depot_0 ( X 1) the tot demand is : 100
+depot is : 0   13_40 12_60 depot_0 ( X 1) the tot demand is : 100
+The running time is : 0.0221570020 s

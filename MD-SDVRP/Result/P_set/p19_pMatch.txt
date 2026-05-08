@@ -1,0 +1,29 @@
+compute rounds : 203
+
+
+
+The minimum cost route is : 5006.2608550784
+The Route is: 
+depot is : 5   209_12 217_8 225_4 233_2 241_1 22_4 30_2 38_1 243_1 235_2 227_4 219_5 214_1 206_12 depot_5 ( X 1) the tot demand is : 59
+depot is : 5   207_12 215_8 223_4 231_2 239_1 238_1 230_2 222_4 214_7 216_6 208_12 depot_5 ( X 1) the tot demand is : 59
+depot is : 5   212_12 213_12 221_8 229_4 237_2 245_1 203_1 218_7 210_12 depot_5 ( X 1) the tot demand is : 59
+depot is : 4   168_12 176_8 184_4 192_2 200_1 199_1 191_2 183_4 175_1 216_2 224_4 232_2 240_1 198_1 190_2 182_4 174_8 depot_4 ( X 1) the tot demand is : 59
+depot is : 4   167_12 175_7 134_8 142_4 150_2 195_2 187_4 179_8 171_12 depot_4 ( X 1) the tot demand is : 59
+depot is : 4   172_12 180_8 188_4 196_2 204_1 159_1 151_2 143_4 197_1 189_4 181_8 173_12 depot_4 ( X 1) the tot demand is : 59
+depot is : 4   169_12 177_8 185_4 193_2 201_1 242_1 234_2 226_4 218_1 170_12 166_12 depot_4 ( X 1) the tot demand is : 59
+depot is : 3   127_12 135_8 141_3 133_12 132_12 128_12 depot_3 ( X 1) the tot demand is : 59
+depot is : 3   130_12 138_8 146_4 154_2 162_1 202_1 194_2 186_4 178_8 197_1 205_1 160_1 152_2 144_4 136_8 depot_3 ( X 1) the tot demand is : 59
+depot is : 3   129_12 137_8 145_3 21_1 29_4 37_2 45_1 163_1 118_1 155_2 147_4 139_8 131_12 depot_3 ( X 1) the tot demand is : 59
+depot is : 2   93_12 101_5 126_12 140_8 148_4 156_2 164_1 119_1 111_2 103_4 95_8 depot_2 ( X 1) the tot demand is : 59
+depot is : 2   90_12 98_8 106_4 114_2 122_1 125_1 117_2 109_4 101_3 107_2 99_8 91_12 depot_2 ( X 1) the tot demand is : 59
+depot is : 2   89_12 97_8 105_4 113_2 121_1 82_1 107_2 115_2 124_1 116_2 108_4 100_8 92_12 depot_2 ( X 1) the tot demand is : 59
+depot is : 2   86_4 94_8 102_4 110_2 80_1 72_2 64_4 56_8 48_12 58_8 66_4 74_2 depot_2 ( X 1) the tot demand is : 59
+depot is : 2   87_12 88_12 96_8 104_4 112_2 120_1 165_1 157_2 149_4 141_5 86_8 depot_2 ( X 1) the tot demand is : 59
+depot is : 1   52_12 60_8 68_4 76_2 84_1 123_1 85_1 77_2 69_4 61_8 53_2 55_2 47_12 depot_1 ( X 1) the tot demand is : 59
+depot is : 1   50_12 53_10 51_7 59_8 67_4 75_2 83_1 81_1 73_2 65_4 57_8 depot_1 ( X 1) the tot demand is : 59
+depot is : 1   49_12 46_12 54_8 62_4 70_2 78_1 43_1 35_2 27_4 19_8 51_5 depot_1 ( X 1) the tot demand is : 59
+depot is : 0   7_12 15_8 23_4 31_2 39_1 244_1 236_2 228_4 220_8 211_12 219_3 depot_0 ( X 1) the tot demand is : 57
+depot is : 0   10_12 18_8 26_4 34_2 42_1 161_1 153_2 145_1 158_1 40_1 32_2 24_4 16_8 8_12 depot_0 ( X 1) the tot demand is : 59
+depot is : 0   12_12 20_8 28_4 36_2 44_1 79_1 71_2 63_4 55_6 21_7 13_12 depot_0 ( X 1) the tot demand is : 59
+depot is : 0   9_12 17_8 25_4 33_2 41_1 14_8 6_12 11_12 depot_0 ( X 1) the tot demand is : 59
+The running time is : 0.1283829970 s
