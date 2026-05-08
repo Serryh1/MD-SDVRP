@@ -88,7 +88,7 @@ struct Arc {
     double cost;
     int arc_idx;
     bool operator<(Arc other) const {
-        return arc_idx < other.arc_idx;  // 你的比较逻辑
+        return arc_idx < other.arc_idx;  // compare logic
     }
 };
 
